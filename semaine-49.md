@@ -1,4 +1,4 @@
-#LE TOP DES ARTICLES   
+## LE TOP DES ARTICLES   
 
 https://www.24joursdeweb.fr/
 LE CALENDRIER DE L'AVENT DES GENS QUI FONT LE WEB D'APRÈS.
@@ -16,14 +16,14 @@ https://korben.info/rien-a-cacher-documentaire.html
 
 
 
-#CONTAINER   
+### CONTAINER   
 
 Pouch: La techno container open source d'alibaba: 
 https://github.com/alibaba/pouch
 
 
 
-#CSS   
+### CSS   
 
 Purgecss: Supprimez le code CSS inutilisé
 https://github.com/FullHuman/purgecss
@@ -59,7 +59,7 @@ If you're looking for CSS talks to watch, here is a whole list :)
 https://github.com/AllThingsSmitty/must-watch-css/blob/master/README.md
 
 
-#ACCESS   
+### ACCESS   
 
 5 Common Misconceptions About Web Accessibility 
 - It only helps a few people
@@ -89,7 +89,7 @@ https://www.alsacreations.com/tuto/lire/1752-comment-utiliser-une-synthese-vocal
 
 
 
-#DESIGN   
+### DESIGN   
 How Stripe Designs Beautiful Websites
 https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/
 
@@ -101,7 +101,7 @@ https://webflow.com/blog/best-practices-for-site-search-design
 
 
 
-#WEB DESIGN   
+### WEB DESIGN   
 
 https://wavy-app.com/
 http://www.maria-callas.com/
@@ -109,7 +109,7 @@ http://annethai.com/
 
 
 
-#UX   
+### UX   
 
 The State of UX for 2018 
 https://uxplanet.org/the-state-of-ux-for-2018-4b2ea908c837
@@ -125,27 +125,27 @@ https://newflux.fr/2017/11/23/retour-dexperience-conception-dun-design-system/
 
 
 
-#GESTION DE PROJET   
+### GESTION DE PROJET   
 
 Pourquoi l’agile tourne en rond ? Comment s’assurer de prioriser le travail en protégeant ses équipes.
 https://frank.taillandier.me/2017/11/26/agile-tourne-en-rond/
 
 
 
-#SVG   
+### SVG   
 
 Creative SVG Strokes Animation 
 https://tympanus.net/codrops/2017/12/05/creative-svg-strokes-animation/
 
 
 
-#WEB GL   
+### WEB GL   
 
 Infinite Town WebGL experiment 
 http://demos.littleworkshop.fr/infinitown
 
 
-#JS    
+### JS    
 
 12 Best Free JavaScript Image Magnification Plugins 
 https://onextrapixel.com/javascript-image-magnification-plugins/
@@ -166,52 +166,52 @@ G2: Une lib JS pour créer de nombreux graphes interactifs
 https://github.com/antvis/g2
 
 
-#VUE JS    
+### VUE JS    
 
 Vue Content Placeholders: Affichez des #faux #composants​ ​pendant le chargement de vos données: 
 https://github.com/michalsnik/vue-content-placeholders
 
 
 
-#WORDPRESS   
+### WORDPRESS   
 
 Une collection de fonctions pour nettoyer votre WordPress
 https://github.com/vincentorback/clean-wordpress-admin
 
 
 
-#BONUS 0  
+### BONUS 0  
 junior dev: "i found the bug"
 senior dev: "i found a bug​"​
 
-#BONUS 1   
+### BONUS 1   
 
 Brune... Environ 1M60, yeux verts... Tu étais dans la dernière rame de la ligne 7 à 19H48. Sac blanc avec une tortue brodée ... Si jamais tu te reconnais... Ou si vous la reconnaissez... Hé bien, dites lui de s'acheter des écouteurs on a pas envie d'entendre sa musique de merde.​ #metro ​
 
-#BONUS 2   
+### BONUS 2   
 
 « Papa, on refait tous les #lego ? »
 Mais les notices sont déchirées/perdues... alors on en fait l'inventaire, et papa fait un petit script #PHP pour télécharger/ranger toutes les notices et photos, et hop cadeau https://github.com/nicolaswurtz/getlegos
 
-#BONUS 3   
+### BONUS 3   
 
 Si ton code c'est de la merde, les post-it sur le mur ne t'aideront pas !
 
-#BONUS 4   
+### BONUS 4   
 
 Très envie de me lancer dans la vente par correspondance de terrines, histoire de pouvoir dire, le plus sérieusement du monde : "oui, j'envoie du pâté".
 
-#BONUS 5   
+### BONUS 5   
 
 J’essaie d’élever mes fils selon une doctrine simple : 
 « pipi debout = pipi partout, pipi assis = pipi précis ».
 
-#BONUS 6   
+### BONUS 6   
 
 Giant Lego Man Costume From Cardboard​ ​
 https://twitter.com/Belxab/status/935986073632759808/video/1
 
-#BONUS 7   
+### BONUS 7   
 
 Je viens d’acheter un baby foot italien​. ​C’est chaud ​! ​
 https://twitter.com/EscAzz/status/935069114560864256/photo/1
