@@ -1,7 +1,7 @@
 ## LE TOP DES ARTICLES   
 
 LE CALENDRIER DE L'AVENT DES GENS QUI FONT LE WEB D'APRÈS.
-(https://www.24joursdeweb.fr/)
+[https://www.24joursdeweb.fr/]
 
 MAINTENABILITÉ DU CODE HTML / CSS : ENTRE AUTOMATISATION ET GUIDE DE STYLE
 https://www.24joursdeweb.fr/2017/maintenabilite-du-code-html-css-entre-automatisation-et-guide-de-style/
