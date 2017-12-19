@@ -7,6 +7,8 @@ Je vous souhaite une excellente journée et une bonne lecture !
 Des bisous...
 
 ### Semaine 49
+https://matteobz.github.io/veille/2017/semaine-49
+
 ### Semaine 46 47 48
 ### Semaine 44 45
 ### Semaine 41 42 43
