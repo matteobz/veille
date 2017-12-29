@@ -17,8 +17,8 @@ source : NL Opquast n°43
 Il n'existe pas un daltonisme mais plusieurs. Cette page permet aux daltoniens de se tester et 
 de comprendre leur type de daltonisme.
 
-http://daltonien.free.fr/daltonien/article.php3?id_article=6
-http://www.labandepasdessinee.com/bpd/354-les-daltoniens
+- http://daltonien.free.fr/daltonien/article.php3?id_article=6
+- http://www.labandepasdessinee.com/bpd/354-les-daltoniens
 
 source : NL Opquast n°43
 
