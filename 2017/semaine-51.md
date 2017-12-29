@@ -32,3 +32,18 @@ ANDI est un bookmarklet ou favelet, qui fonctionne directement dans le navigateu
 https://www.ssa.gov/accessibility/andi/help/howtouse.html
 
 source : NL Opquast n°43
+
+
+## DESIGN
+
+Have Trainline nailed their UX?
+Quick feature thoughts and improvements for the Trainline app
+https://uxplanet.org/have-trainline-nailed-their-ux-7694e6f16897
+
+
+## SECURITE
+
+LastPass’ Authenticator app is not secure
+https://hackernoon.com/lastpass-authenticator-app-is-not-secure-77b9743c3007
+
+
