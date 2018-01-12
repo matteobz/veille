@@ -6,6 +6,8 @@ https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30
 **Créez votre site web à partir de preuves, pas à partir de légendes urbaines.**  
 http://www.uxmyths.fr/ (merci Florian)
 
+**Tiny Wins - The big benefits of little changes**  
+http://joelcalifa.com/blog/tiny-wins/
 
 ## CSS
 
@@ -15,6 +17,8 @@ https://stevenloria.com/responsive-typography/
 **Can Preload Cut the Mustard?**  
 https://www.filamentgroup.com/lab/preload-ctm.html
 
+**CSS Cheat Sheet**  
+https://adam-marsden.co.uk/css-cheat-sheet
 
 ## FONT LOADING
 
