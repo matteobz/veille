@@ -56,7 +56,7 @@ https://jonathan-harrell.com/better-typography-font-variants/
 **Metldown + Spectre, on fait quoi ?**  
 http://blogmotion.fr/internet/securite/metldown-spectre-comprendre-16865
 
-**Approche technique simplifiée de #Spectre et #Meltdown afin d'en comprendre les détails et les conséquences **  
+**Approche technique simplifiée de #Spectre et #Meltdown afin d'en comprendre les détails et les conséquences**  
 http://beta.hackndo.com/meltdown-spectre/
 
 
@@ -78,7 +78,7 @@ https://dev.to/drminnaar/11-react-examples-2e6d
 
 ## TESTS
 
-**I'm making a cool thing that lets you run user/usability tests :) **
+**I'm making a cool thing that lets you run user/usability tests**
 https://rayfeed.com/  
 — Wojtek (@pugson)
 
