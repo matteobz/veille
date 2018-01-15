@@ -43,6 +43,8 @@ https://www.sitepoint.com/putting-app-progressive-web-apps/
 **Datepicker et accessibilité**  
 https://blog.atalan.fr/datepicker-et-accessibilite/
 
+**Get the current accessibility support status of HTML5**  
+http://html5accessibility.com/
 
 ## MOCKUP
 
