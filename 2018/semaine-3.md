@@ -7,4 +7,8 @@ https://www.frenchweb.fr/assistants-vocaux-interface-ultime-et-menace-pour-notre
 
 ## WEBSITES
 
-https://snips.ai/
+https://snips.ai/  
+https://juliebonnemoy.com/ (anim du logo)  
+https://www.kolin.fr/  
+https://www.jasonyanfrancis.com/  
+http://www.cantorfineart.com/ (menu)   
