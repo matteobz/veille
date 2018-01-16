@@ -3,6 +3,10 @@
 **Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility**  
 https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/
 
+**Difficile de s'y retrouver entre les différentes ressources du #RGAA ?**   
+Quel guide pour quel métier ? Quel référentiel pour quelle pratique ? Voici un tableau récapitulatif :
+http://gta2017.access42.net/2/ressources/
+
 ## IA : Ethique by Design
 
 **Assistants vocaux: interface ultime et menace pour notre vie privée?**
