@@ -1,3 +1,7 @@
+## LES TOPS
+
+**Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility**  
+https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/
 
 ## IA : Ethique by Design
 
@@ -16,5 +20,5 @@ http://www.cantorfineart.com/ (menu)
 
 ## CSS
 
-CSS Grid + CSS Multi-Columns = ♥
+**CSS Grid + CSS Multi-Columns = ♥**  
 https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c
