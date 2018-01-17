@@ -26,3 +26,6 @@ http://www.cantorfineart.com/ (menu)
 
 **CSS Grid + CSS Multi-Columns = ♥**  
 https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c
+
+**"display: contents" is coming**  
+https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/
