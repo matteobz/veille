@@ -26,6 +26,7 @@ https://www.jasonyanfrancis.com/
 http://www.cantorfineart.com/ (menu)  
 https://bullyingandbehavior.com/  
 https://www.fisheyegallery.fr/ de @SalutLesAnimals  
+http://bond.backerkit.com/
 
 
 ## FRAMEWORK CSS
@@ -35,6 +36,9 @@ https://picturepan2.github.io/spectre/index.html
 
 
 ## CSS
+
+**CSS Naming Conventions that Will Save You Hours of Debugging**  
+https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
 
 **CSS Grid + CSS Multi-Columns = ♥**  
 https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c
