@@ -26,7 +26,8 @@ https://www.jasonyanfrancis.com/
 http://www.cantorfineart.com/ (menu)  
 https://bullyingandbehavior.com/  
 https://www.fisheyegallery.fr/ de @SalutLesAnimals  
-http://bond.backerkit.com/
+http://bond.backerkit.com/  
+http://play.studiogusto.com/
 
 
 ## FRAMEWORK CSS
