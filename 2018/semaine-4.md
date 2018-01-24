@@ -62,6 +62,8 @@ https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163
 **Stop Using CSS Selectors for Non-CSS — CSS-Tricks**  
 https://css-tricks.com/stop-using-css-selectors-non-css/
 
+**CSS Grid + Flexbox Solving Real-world Problems**  
+https://medium.com/@petermouland/css-grid-flexbox-solving-real-world-problems-1cce3ecb2b51
 
 ## REVIEW DE CODE
 
