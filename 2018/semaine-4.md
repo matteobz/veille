@@ -40,6 +40,9 @@ Sur macOS et iOS avec des media queries comme "prefers-reduced-motion" et "inver
 **Malgré quelques petites erreurs du beau boulot de vulgarisation pour nos chers amis développeurs — goetsu** 
 https://jolicode.com/blog/une-fenetre-modale-accessible
 
+**Email accessibility in action**
+https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67
+
 
 ## CSS
 
