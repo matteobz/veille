@@ -68,6 +68,13 @@ https://css-tricks.com/stop-using-css-selectors-non-css/
 **CSS Grid + Flexbox Solving Real-world Problems**  
 https://medium.com/@petermouland/css-grid-flexbox-solving-real-world-problems-1cce3ecb2b51
 
+**Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension**  
+https://ibm.github.io/css-gridish/  
+https://github.com/ibm/css-gridish
+
+**Learn Flexbox for free**  
+https://scrimba.com/g/gflexbox
+
 ## REVIEW DE CODE
 
 **Un retour d'expérience sur les revues de code chez Tumblr**  
@@ -82,11 +89,23 @@ https://github.com/krasimir/kuker#readme
 **Quelques astuces pour obtenir des informations sur le navigateur d’un·e internaute en utilisant uniquement CSS**  
 https://github.com/jbtronics/CrookedStyleSheets
 
+**REACT, REDUX AND JAVASCRIPT ARCHITECTURE**  
+https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
+
 
 ## DEV BACK
 
 **Comment faire des filtres de listing grâce aux aggrégations #Elasticsearch ?**  
 https://www.novaway.fr/blog/tech/faire-des-filtres-de-listing-grace-aux-aggregations-elasticsearch
+
+**How to get HTTPS working on your local development environment in 5 minutes**  
+https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec
+
+
+## CODEPEN
+
+https://codepen.io/jackrugile/full/RxqdxL/  
+https://codepen.io/DonKarlssonSan/full/XVxrGW/  
 
 
 ## DESIGN
@@ -102,6 +121,12 @@ https://dribbble.com/shots/4116637-Unow-Design-System-UI-kit
 
 https://mdproduction.ch/  
 http://stilletto.studio/  
+
+
+## JS FRONT
+
+**Flickity Touch, responsive, flickable carousels**  
+https://flickity.metafizzy.co/
 
 
 ## BONUS 1
