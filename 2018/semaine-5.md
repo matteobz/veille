@@ -15,9 +15,15 @@ https://github.com/ionic-team/capacitor#%EF%B8%8F-capacitor-cross-platform-apps-
 
 ## ENTREPRISE
 
-**Il est né le bulletin simplifié (bon pas tout a fait il existe déjà depuis un an pour les grandes entreprises)... découvrez le nouveau visage de votre bulletin de paye !**  
+**Il est né le bulletin simplifié**  
+(bon pas tout a fait il existe déjà depuis un an pour les grandes entreprises)... découvrez le nouveau visage de votre bulletin de paye !  
 https://libelilou.github.io/2018/01/13/bulletin-simplifie.html
 
+
+## PERF CSS
+
+**Make Your Site Faster with Preconnect Hints**  
+https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints/
 
 ## CSS
 
@@ -39,6 +45,8 @@ https://css-tricks.com/a-complete-guide-to-svg-fallbacks/
 **Et hop, nous voici partis pour un nouveau thread ! Et cette fois-ci, nous allons parler de l'évolution de l'identité visuelle de France Télévisions. Vous êtes prêts ? Déroulez donc**  
 https://twitter.com/valentinsocha/status/957685409160597507/photo/1
 
+**Using Gradients In User Experience Design**  
+https://www.smashingmagazine.com/2018/01/gradients-user-experience-design/
 
 ## WEBSITE
 
