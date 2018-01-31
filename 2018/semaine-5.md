@@ -1,5 +1,8 @@
 ## LES TOPS
 
+**Retour sur la pénurie de devs**  
+http://sametmax.com/retour-sur-la-penurie-de-devs/
+
 **Caméra cachée pédagogique made in USA, à coup de Whopper sur la neutralité du net**  
 https://twitter.com/BurgerKing/status/956166686054408192
 
