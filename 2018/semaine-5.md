@@ -23,6 +23,12 @@ https://github.com/ionic-team/capacitor#%EF%B8%8F-capacitor-cross-platform-apps-
 https://libelilou.github.io/2018/01/13/bulletin-simplifie.html
 
 
+## CONFERENCE 
+**Faire comprendre le métier d’intégrateur web**  
+Retour d'expérience de @HTeuMeuLeu
+https://vimeo.com/album/2988975/video/105428541
+
+
 ## PERF CSS
 
 **Make Your Site Faster with Preconnect Hints**  
@@ -80,6 +86,9 @@ https://www.duolingo.com/design/
 
 
 ## ACCESS
+
+**Un récapitulatif des raccourcis clavier des principaux lecteurs d'écran (avec une version imprimable) par @dequesystems**  
+https://dequeuniversity.com/screenreaders/
 
 **Many screen readers like JAWS or NVDA have shortcuts to bring up a list of landmarks, headings or links. a11y-outline provides the same functionality without requiring a screen reader. This is amazing. — Denis Boudreau**  
 FF extension: https://addons.mozilla.org/de/firefox/addon/a11y-outline/
@@ -149,6 +158,11 @@ https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere/
 **DuckDuckGo sort son propre navigateur (sur iOS et Android)**  
 https://duckduckgo.com/app
 
+
+## OUTILS 
+
+**Great screen capture app for Mac**  
+https://getkap.co
 
 ## DATAVIZ
 
