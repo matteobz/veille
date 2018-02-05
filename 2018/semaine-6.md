@@ -14,6 +14,9 @@ http://www.cnap.graphismeenfrance.fr/faune/
 **Les liens vers les numéros de téléphone et l'accessibilité**  
 http://allthingssmitty.com/2018/01/29/phone-number-links-and-accessibility/
 
+**WordCamp Paris 2016, tester le niveau d'access d'un thème WP**  
+http://www.accesbilis.fr/tester-le-niveau-daccessibilite-dun-theme-wordpress/
+
 
 ## GESTION DE PROJET
 
