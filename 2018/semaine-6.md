@@ -12,6 +12,9 @@ https://maze.design/
 
 ## ACCESS
 
+**Have you tried "Landmarks", this neat lil' #a11y #ARIA #HTML5 Chr FF Op extension? It highlights/navigates to landmarks and display their aria-labelledby or aria-label attributes if they have some**  
+http://matatk.agrip.org.uk/landmarks/
+
 **Les liens vers les numéros de téléphone et l'accessibilité**  
 http://allthingssmitty.com/2018/01/29/phone-number-links-and-accessibility/
 
