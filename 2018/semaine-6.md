@@ -35,3 +35,10 @@ https://www.lafabriquedunet.fr/blog/gestion-projet-web-definition-methodologies/
 
 **Molotov inaugure sa fonctionnalité “Regarder avec Molotov”**  
 https://medium.com/@molotovtv/molotov-inaugure-sa-fonctionnalit%C3%A9-regarder-avec-molotov-6a30a600ce04
+
+
+## BONUS 1
+
+**Comment dire email en LSF**  
+https://twitter.com/Dame_Fanny/status/960855183935885313
+
