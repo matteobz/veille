@@ -1,5 +1,8 @@
 ## TOP
 
+**La Loi du plus Sympa. Pourquoi il faut faire confiance à son voisin**  
+http://www.mercialfred.com/topos/confiance-loi-du-plus-sympa
+
 **Why you can't test a screen reader (yet)!**  
 http://robdodson.me/why-you-cant-test-a-screen-reader-yet/
 
