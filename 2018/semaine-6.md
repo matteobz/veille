@@ -31,6 +31,10 @@ https://www.bloomberg.com/news/articles/2018-02-01/startups-try-to-chip-away-at-
 **What’s the difference between UX and UI design?**  
 https://medium.freecodecamp.org/whats-the-difference-between-ux-and-ui-design-2ca8d107de14
 
+## HTML
+
+**Scribbler: Un #layout HTML/CSS gratuit pour présenter votre projet avec une doc associée:**  
+https://github.com/amiechen/codrops-scribbler
 
 ## CSS
 
@@ -52,6 +56,9 @@ https://larsenwork.com/easing-gradients/
 
 **Comment debugger méthodiquement du Javascript**  
 https://codeburst.io/the-console-frogger-javascript-debugging-101-7f2268662777
+
+**lazy-image**  
+https://meowni.ca/lazy-image/
 
 
 ## REACT
