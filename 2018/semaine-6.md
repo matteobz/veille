@@ -111,6 +111,12 @@ https://www.lafabriquedunet.fr/blog/gestion-projet-web-definition-methodologies/
 https://medium.com/@molotovtv/molotov-inaugure-sa-fonctionnalit%C3%A9-regarder-avec-molotov-6a30a600ce04
 
 
+## IDE
+
+**Why I Switched from Visual Studio Code to Sublime Text**  
+https://dev.to/restoreddev/why-i-switched-from-visual-studio-code-to-sublime-text-28k0
+
+
 ## PWA
 
 Après Apple le mois dernier https://www.computerworld.com/article/3251173/apple-mac/apple-goes-back-to-the-future-with-web-apps.html, c'est au tour de Microsoft d'annoncer le support des Progressive Web Apps https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/ Qu'on ne me dise plus que ce n'est pas une solution viable !  
@@ -140,3 +146,8 @@ In French, we don't say "snow day" we say "putain mais c'est bloqué de partout 
 
 **Quand tu te fais gazer par la BAC**  
 https://twitter.com/apdhoe/status/960430636094943232/photo/1
+
+
+## BONUS 4
+https://twitter.com/MarshallJulius/status/958652139714285568/photo/1
+
