@@ -26,15 +26,19 @@ https://interfacelovers.com/interviews/zach-cole
 **Startups Try to Chip Away at Adobe's Dominance**  
 https://www.bloomberg.com/news/articles/2018-02-01/startups-try-to-chip-away-at-adobe-s-dominance
 
+**Data Tables Design Basics**  
+https://design-nation.icons8.com/intro-to-data-tables-design-349f55861803
 
 # UX vs UI
 **What’s the difference between UX and UI design?**  
 https://medium.freecodecamp.org/whats-the-difference-between-ux-and-ui-design-2ca8d107de14
 
+
 ## HTML
 
 **Scribbler: Un #layout HTML/CSS gratuit pour présenter votre projet avec une doc associée:**  
 https://github.com/amiechen/codrops-scribbler
+
 
 ## CSS
 
