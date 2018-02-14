@@ -9,7 +9,8 @@ https://codepen.io/FWeinb/pen/GrpqB/
 
 ## WEBSITE 
 
-http://okkapi.agency/
+http://okkapi.agency/  
+https://hajinsky.com/
 
 
 ## JS
