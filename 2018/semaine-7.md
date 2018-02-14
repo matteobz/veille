@@ -11,7 +11,8 @@ https://codepen.io/FWeinb/pen/GrpqB/
 
 http://okkapi.agency/  
 https://hajinsky.com/  
-http://julienrenau.com/
+http://julienrenau.com/  
+https://lovelost.jam3.com/ (ça rame par contre...)  
 
 
 ## JS
