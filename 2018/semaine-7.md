@@ -1,5 +1,9 @@
 ## TOP
 
+**A JavaScript API for drawing unconventional text effects on the web**  
+J'aime ces effets : https://blotter.js.org/#/materials/FliesMaterial + https://blotter.js.org/#/materials/ChannelSplitMaterial
+
+
 
 ## UX
 
