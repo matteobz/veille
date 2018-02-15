@@ -3,6 +3,8 @@
 **A JavaScript API for drawing unconventional text effects on the web**  
 J'aime ces effets : https://blotter.js.org/#/materials/FliesMaterial + https://blotter.js.org/#/materials/ChannelSplitMaterial
 
+**Have fun with our emojis — Last prod @stinkstudios with @Palrdy & @sosoinuk**  
+https://stinkmoji.cool/
 
 
 ## UX
