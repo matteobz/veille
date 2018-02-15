@@ -13,6 +13,7 @@ http://okkapi.agency/
 https://hajinsky.com/  
 http://julienrenau.com/  
 https://lovelost.jam3.com/ (ça rame par contre...)  
+http://www.canadamodern.org/
 
 
 ## JS
