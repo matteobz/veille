@@ -18,6 +18,9 @@ https://uxplanet.org/7-tips-to-enhance-mobile-interactions-d393245522b9
 **Direction aware hover pure CSS**  
 https://codepen.io/FWeinb/pen/GrpqB/
 
+**New article/experiment: sort tables with CSS and HTML only**  
+http://kizu.ru/en/blog/variable-order/
+
 
 ## WEBSITE 
 
