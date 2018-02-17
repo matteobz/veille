@@ -58,6 +58,8 @@ http://kizu.ru/en/blog/variable-order/
 **How I design with CSS grid**  
 https://www.chenhuijing.com/blog/how-i-design-with-css-grid/#%F0%9F%8F%80
 
+**Full page editor for crafting gradients**  
+http://ourownthing.co.uk/gradpad.html#
 
 ## SVG
 
@@ -159,7 +161,7 @@ http://gitup.co/
 ## BONUS 1
 
 **chaotic good**  
-pic.twitter.com/fMwLyyD3eh
+https://twitter.com/wrycolf/status/964292690564341761/video/1
 
 
 ## BONUS 2
