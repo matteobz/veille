@@ -1,5 +1,8 @@
 ## CSS
 
+**Standalone parallax scrolling with CSS variables**  
+https://basicscroll.electerious.com/
+
 **Extraire les critical-path CSS de vos pages web pour optimiser vos webperfs**  
 https://github.com/addyosmani/critical
 
