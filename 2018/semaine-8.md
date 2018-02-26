@@ -31,3 +31,10 @@ https://github.com/k88hudson/git-flight-rules
 ## WEBSITE
 
 https://www.underglass.io/  
+
+
+
+## BONUS 1
+
+**FRONT END vs BACK END :)**  
+https://twitter.com/PainPoint/status/966749439963508736
