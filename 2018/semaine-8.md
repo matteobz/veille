@@ -6,6 +6,10 @@ https://twitter.com/iamtzi/status/967013421609824256
 **Comment énerver un graphiste**  
 https://twitter.com/DesignerDepot/status/967481833947586565/photo/1
 
+**Quand on dit « Ça ne concerne que 1 % de nos visiteurs », en réalité ça concerne presque tout le monde. En voici l'illustration parfaite.**  
+https://kryogenix.org/code/browser/why-availability/  
+— HTeuMeuLeu
+
 
 ## UX
 
@@ -51,6 +55,9 @@ http://markdotto.com/2018/02/07/github-system-fonts/
 Ça peut nous aider...  
 https://assortment.io/posts/handling-long-titles-with-truncation
 
+**Stunning hover effects with CSS variables**  
+https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330
+
 
 ## GIT 
 
@@ -61,7 +68,7 @@ https://github.com/k88hudson/git-flight-rules
 ## WEBSITE
 
 https://www.underglass.io/  
-
+http://truecolors.us/index.html  
 
 ## WEB
 
@@ -78,11 +85,19 @@ https://anotherwhiskyformisterbukowski.com/2018/02/24/deteste-web-daujourdhui/  
 https://www.nextinpact.com/news/106168-le-rgpd-explique-ligne-par-ligne-articles-24-a-50.htm
 
 
+## WORDPRESS
+
+**Accessibilité d’un thème WordPress : les éléments de code obligatoires par @accesbilis**  
+https://www.wpnormandie.fr/accessibilite-dun-theme-wordpress-les-elements-de-code-obligatoires/
+
+
 ## TOOLS
 
 **Some Things I Recommend**  
 https://css-tricks.com/some-things-i-recommend/ — CSS-Tricks
 
+**Peuple français, j'me suis bien galéré à comprendre les fichiers XML (et XML Schema correspondants) qui encodent des documents budgétaires. J'ai écrit une documentation des parties que je trouve les plus utiles**  
+https://github.com/DavidBruant/colors-of-the-finances/blob/master/docs/format-fichier.md
 
 
 ## BONUS 0
