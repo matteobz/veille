@@ -45,3 +45,12 @@ https://github.com/supnate/rekit
 
 **Koa11y is a desktop app that allows you to automatically detect accessibility (a11y) issues on webpages.**  
 https://open-indy.github.io/Koa11y/
+
+
+
+## BONUS 1
+
+**LES CASSEROLES DES CHEFS**
+http://www.mercialfred.com/infographie/manuel-de-survie-au-restaurant
+
+
