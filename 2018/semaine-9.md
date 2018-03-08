@@ -6,11 +6,15 @@
 **How do you design a design doc?**  
 https://medium.com/dropbox-design/how-do-you-design-a-design-doc-d7b2f1fa4a0c
 
+**The Ultimate Guide — Difference Between Usability and User Experience**  
+https://medium.muz.li/the-ultimate-guide-difference-between-usability-and-user-experience-36092090081c
+
 
 
 ## WEBSITE 
 
 http://www.comp.jp/  
+https://www.reshot.com/  
 
 
 
