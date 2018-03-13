@@ -44,6 +44,8 @@ https://nigelotoole.github.io/direction-reveal/
 **Dedicated IDE and toolkit for building scalable web applications with React, Redux and React-router**  
 https://github.com/supnate/rekit
 
+**Simple Parallax - a jQuery Plugin**  
+https://anakao-theme.com/simpleparallax/
 
 
 ## ACCESS
