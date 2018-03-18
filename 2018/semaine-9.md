@@ -126,7 +126,7 @@ https://twitter.com/efoulon1/status/969561649492488192?ref_src=twsrc%5Etfw
 **LES CASSEROLES DES CHEFS**
 http://www.mercialfred.com/infographie/manuel-de-survie-au-restaurant
 
-**Ils affichent la solution du meilleur escape game de France maintenant.**  
+**Ils affichent la solution du meilleur escape game de France**  
 https://twitter.com/NotCassim/status/969622593698484225/photo/1
 
 Les gens qui vont chez le docteur : "Je vais mal, et voici en détail tous mes symptômes."  
