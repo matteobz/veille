@@ -13,6 +13,7 @@ https://medium.muz.li/the-ultimate-guide-difference-between-usability-and-user-e
 
 ## WEBSITE 
 
+http://the-responsive.com/ << Gallery showcasing the finest responsive design    
 http://www.comp.jp/  
 https://www.reshot.com/  
 http://www.mathery.it/  
