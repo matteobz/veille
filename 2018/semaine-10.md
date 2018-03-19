@@ -101,7 +101,11 @@ https://github.com/pilagod/js-tracker
 **Comparaison d'une réécriture de la même page LinkedIn en pReact et glimmerjs**  
 https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs
 
+**ScrollBooster - A small drag-to-scroll library made by Ilya Shubin**  
+https://ilyashubin.github.io/scrollbooster/
 
+**Responsive Table - Jeremy Church shares a mobile-friendly table solution with persistent table headers**  
+https://j.eremy.net/responsive-table/
 
 # ACCESS
 
