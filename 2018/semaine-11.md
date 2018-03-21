@@ -28,3 +28,9 @@ https://gmunk.com/
 
 **Fork Awesome - A fork of the iconic font and CSS toolkit**  
 https://forkawesome.github.io/Fork-Awesome/
+
+
+# PAYPAL
+
+**How PayPal Shares Your Data**  
+https://rebecca-ricks.com/paypal-data/
