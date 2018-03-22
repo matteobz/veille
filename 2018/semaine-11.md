@@ -1,3 +1,9 @@
+# DESIGN
+
+**UI Design Case Study: Colony. Landing Page for Collaboration Platform**  
+https://uxplanet.org/ui-design-case-study-colony-landing-page-for-collaboration-platform-1247890b364e
+
+
 # CSS
 
 **Best way to do Masonry layout using CSS Grid. Note that JS is not required, see**  
