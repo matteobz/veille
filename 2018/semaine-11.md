@@ -7,10 +7,19 @@ https://designmodo.com/startup/
 https://carrd.co/
 
 
+
 # Regards sur l'intelligence artificielle
 
 **Data, emploi, éthique, politique : Regards sur l'intelligence artificielle**  
 https://www.youtube.com/watch?v=tL7ojiOTQho
+
+
+
+# AIR BNB
+
+**The Evolution of Tools**  
+https://airbnb.design/the-evolution-of-tools/
+
 
 
 # ACCESSIBILITE
@@ -25,16 +34,25 @@ https://medium.com/@marinacpom/handicap-arr%C3%AAtez-avec-ce-changement-de-regar
 https://www.aveuglesdefrance.org/nos-actions/accessibilite-numerique
 
 
+
 # DESIGN
 
 **UI Design Case Study: Colony. Landing Page for Collaboration Platform**  
 https://uxplanet.org/ui-design-case-study-colony-landing-page-for-collaboration-platform-1247890b364e
+
+**Designing Accessible Navigations**  
+https://uxplanet.org/designing-accessible-navigations-3b1a151d3bd7
+
 
 
 # CSS
 
 **Best way to do Masonry layout using CSS Grid. Note that JS is not required, see**  
 http://jsbin.com/cavazek/edit?css,output
+
+**Cropping Away Negative Impacts of Line Height**  
+https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce
+
 
 
 # JS
@@ -50,6 +68,7 @@ https://pressurejs.com/
 
 **A flexible and fun JavaScript file upload library**  
 https://github.com/pqina/filepond/  
+
 
 
 # WEBSITE 
