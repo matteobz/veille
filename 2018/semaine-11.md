@@ -7,6 +7,12 @@ https://designmodo.com/startup/
 https://carrd.co/
 
 
+# Regards sur l'intelligence artificielle
+
+**Data, emploi, éthique, politique : Regards sur l'intelligence artificielle**  
+https://www.youtube.com/watch?v=tL7ojiOTQho
+
+
 # ACCESSIBILITE
 
 **Les ressources RGAA en agence web**  
