@@ -75,6 +75,8 @@ https://pressurejs.com/
 **A flexible and fun JavaScript file upload library**  
 https://github.com/pqina/filepond/  
 
+**Toast UI - Beautiful charts for data visualization**  
+http://ui.toast.com/
 
 
 # WEBSITE 
@@ -85,7 +87,8 @@ https://www.millemannconsulting.fr/
 https://zoepepper.com/  
 https://www.invisionapp.com/enterprise/design-genome  
 http://bohanoverseas.resnchina.net/#/watch  
-https://www.brontidebg.com/
+https://www.brontidebg.com/  
+https://www.ibm.com/plex/
 
 
 # MOCKUP
