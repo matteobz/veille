@@ -36,6 +36,8 @@ https://medium.com/@marinacpom/handicap-arr%C3%AAtez-avec-ce-changement-de-regar
 **Initier un premier pas vers l’accessibilité numérique**  
 https://www.aveuglesdefrance.org/nos-actions/accessibilite-numerique
 
+**Creating Accessible HTML: A Crash Course in ARIA Landmark Regions**  
+https://c2experience.com/blog/2018/03/creating-accessible-html-a-crash-course-in-aria-landmark-regions/
 
 
 # DESIGN
@@ -56,6 +58,9 @@ https://medium.com/designers-interactifs/ux-ui-quels-outils-de-design-pour-quels
 
 # CSS
 
+**How display: contents; Works**  
+https://bitsofco.de/how-display-contents-works/
+
 **Best way to do Masonry layout using CSS Grid. Note that JS is not required, see**  
 http://jsbin.com/cavazek/edit?css,output
 
@@ -65,6 +70,9 @@ https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height
 
 
 # JS
+
+**JavaScript in 14 minutes**  
+https://jgthms.com/javascript-in-14-minutes/
 
 **InfiniteGrid**  
 https://naver.github.io/egjs-infinitegrid/  
@@ -84,6 +92,7 @@ http://ui.toast.com/
 
 # WEBSITE 
 
+https://themads.agency/  
 https://gmunk.com/  
 http://oakandmorrow.com/ (idée du menu : top)  
 https://www.millemannconsulting.fr/  
