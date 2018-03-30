@@ -10,6 +10,11 @@ https://designmodo.com/startup/
 https://carrd.co/
 
 
+# PERF 
+
+**Quelques solutions facilitant la bonne mise en œuvre des images responsives**  
+https://blog.clever-age.com/fr/2018/03/29/solutions-images-responsives/
+
 
 # Regards sur l'intelligence artificielle
 
