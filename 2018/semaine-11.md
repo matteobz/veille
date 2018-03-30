@@ -59,6 +59,9 @@ https://uxplanet.org/designing-accessible-navigations-3b1a151d3bd7
 **UX & UI : quels outils de design, pour quels workflows de travail ?**  
 https://medium.com/designers-interactifs/ux-ui-quels-outils-de-design-pour-quels-workflows-de-travail-2f9df9fe2558
 
+**UX In Contact Forms: Essentials To Turn Leads Into Conversions**  
+https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/
+
 
 
 # CSS
