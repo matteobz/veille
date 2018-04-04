@@ -39,3 +39,7 @@ https://www.undersight.co/
 
 **Mobbin is a hand-picked collection of latest design patterns from mobile apps that reflect the best in design.**  
 https://mobbin.design/
+
+**What a weird & different ecommerce website!**  
+https://theentireworld.com/
+
