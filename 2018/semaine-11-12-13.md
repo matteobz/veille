@@ -53,6 +53,10 @@ https://uxplanet.org/ui-design-case-study-colony-landing-page-for-collaboration-
 **Designing Accessible Navigations**  
 https://uxplanet.org/designing-accessible-navigations-3b1a151d3bd7
 
+**Design Trends 2018**  
+https://medium.muz.li/design-trends-2018-ecf5820f8bd0
+
+
 
 # UX
 
