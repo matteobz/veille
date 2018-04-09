@@ -20,7 +20,8 @@ https://furbo.org/2018/03/28/system-fonts-in-css/
 **Get the essential colours from a website**  
 http://palette.site/
 
-
+**Fonts for Complex Data**  
+https://www.typography.com/blog/fonts-for-complex-data
 
 # TYPO / DESIGN
 
@@ -32,6 +33,7 @@ http://brailleneue.com/
 # WEBSITE 
 
 http://the-responsive.com/
+https://theshift.tokyo/
 
 **An analysis of the world's best digital products**  
 https://www.underglass.io/  
