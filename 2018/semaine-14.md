@@ -7,6 +7,14 @@ http://bradfrost.com/blog/post/creating-themeable-design-systems/
 https://designmodo.com/better-content-first/
 
 
+# VIE PRIVEE
+
+Quand vous postez un selfie sur Facebook, vous fournissez trois données (photo, texte, reconnaissance faciale). Ils en collectent 17 autres (modèle du téléphone, opérateur, niveau de batterie, réseau wifi, temps passé sur la plateforme, etc.)
+https://www.wsj.com/graphics/how-pizza-night-can-cost-more-in-data-than-dollars/?mod=e2tw
+
+Voilà pourquoi j’ai choisi d’utiliser Protonmail au quotidien : https://protonmail.com/blog/protonmail-vs-gmail-security/ Oui, je paie 70€ par an mais ça vaut le coup. Et on peut l’associer à 2 noms de domaines, c’est plus pro !
+
+
 # ACCESSIBILITE
 
 **Inclusive - Data Tables**  
@@ -27,6 +35,9 @@ https://codepen.io/danielgivens/details/aYQNxQ
 
 
 # CSS
+
+**Scroll to the future, - Everything you always wanted to know about implementing scrolling but were afraid to ask**  
+https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations
 
 **Focusing on Focus Styles**  
 https://css-tricks.com/focusing-on-focus-styles/
@@ -139,4 +150,10 @@ https://twitter.com/TacoPhox/status/984278861188755456/photo/1
 
 **I need your clothes, your boots and your motorcycle**  
 https://twitter.com/DannyDutch/status/983042027775459328/photo/1
+
+
+# BONUS 3 
+
+On vous dit tout de l'huile de palme et on vous offre 2 recettes de pâtes à tartiner à manger à la petite cuillère.  
+https://magazine.laruchequiditoui.fr/palme-dor-pour-pate-a-tartiner-maison/
 
