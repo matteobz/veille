@@ -57,8 +57,8 @@ https://medium.com/@mds/color-contrast-crash-course-for-interface-design-a69c987
 
 # FONT
 
-https://fontdrop.info/
-
+https://fontdrop.info/  
+http://www.fontisto.com/icons
 
 
 # CSS
