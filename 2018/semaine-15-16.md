@@ -1,6 +1,6 @@
 # TOP
 
-2 liens pour rappeler quelques méfaits autour de l'agile  
+**2 liens pour rappeler quelques méfaits autour de l'agile**  
 https://frank.taillandier.me/2017/11/26/agile-tourne-en-rond/  
 https://medium.com/@binnie/pourquoi-agile-et-scrum-sont-catastrophiques-3d699aa67a33
 
