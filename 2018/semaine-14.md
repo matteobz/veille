@@ -108,7 +108,7 @@ https://theentireworld.com/
 # THEME IDE
 
 "Really surprised this theme isn't more popular. It's a joy to use for HTML/CSS/JS and PHP." 
-- New Moon for #vscode https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode#overview
+New Moon for #vscode https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode#overview
 
 
 
