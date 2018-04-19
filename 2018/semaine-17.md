@@ -30,3 +30,10 @@ https://www.viget.com/articles/the-state-of-web-animation-part-2/
 # WEBSITE 
 
 https://designcode.io/workshops
+
+
+
+# JAVASCRIPT
+
+**pico.js - Face-detection library in 200 lines of JS**
+https://tkv.io/posts/picojs-intro/demo/
