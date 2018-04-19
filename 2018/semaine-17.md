@@ -29,7 +29,8 @@ https://www.viget.com/articles/the-state-of-web-animation-part-2/
 
 # WEBSITE 
 
-https://designcode.io/workshops
+https://designcode.io/workshops  
+https://charles-simon.com/
 
 
 
