@@ -1,7 +1,9 @@
 # TOP
 
-**The State of Web Animation: Part 2**  
-https://www.viget.com/articles/the-state-of-web-animation-part-2/
+**Stratégie mobile et capacités des navigateurs modernes – slides de conférence Yajug**  
+https://blog.stephaniewalter.fr/strategie-mobile-et-capacites-des-navigateurs-modernes-slides-de-conference-yajug/
+https://speakerdeck.com/stephaniewalter/strategie-mobile-et-capacites-des-navigateurs-modernes?slide=1
+
 
 
 # SLIDES
@@ -10,7 +12,17 @@ https://www.viget.com/articles/the-state-of-web-animation-part-2/
 https://www.rodriguezcommaj.com/blog/a-few-tips-on-building-slides
 
 
+
 # FRONT END
 
 **Render After Effects animations natively on Web, Android and iOS, and React Native**  
 https://github.com/airbnb/lottie-web
+
+
+
+# CSS
+
+**The State of Web Animation: Part 2**  
+https://www.viget.com/articles/the-state-of-web-animation-part-2/
+
+
