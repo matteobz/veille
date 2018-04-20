@@ -38,3 +38,12 @@ https://charles-simon.com/
 
 **pico.js - Face-detection library in 200 lines of JS**
 https://tkv.io/posts/picojs-intro/demo/
+
+
+
+# OUTILS
+
+**Product management tools and resources**  
+https://www.productmanagementtoolkit.com/
+
+
