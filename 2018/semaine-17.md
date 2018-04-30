@@ -116,6 +116,8 @@ https://www.kob-one.com/calcul-salaire-freelance/
 **THE FEMINIST LETTERS**  
 http://thefeministletters.com/
 
+https://www.designcuts.com/product/complete-quality-font-collection/?ref=262
+
 
 
 # VIDEO - Reportage - Etranges Escales  
