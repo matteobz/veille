@@ -1,14 +1,10 @@
 # TOP
 
+**Un développeur n'est pas un joueur de babyfoot**  
+http://www.mathieupassenaud.fr/un-developpeur-nest-pas-un-joueur/
+
 **Scrolling and Attention on NNgroup**  
 https://www.nngroup.com/articles/scrolling-and-attention/
-
-**Stratégie mobile et capacités des navigateurs modernes – slides de conférence Yajug**  
-https://blog.stephaniewalter.fr/strategie-mobile-et-capacites-des-navigateurs-modernes-slides-de-conference-yajug/
-https://speakerdeck.com/stephaniewalter/strategie-mobile-et-capacites-des-navigateurs-modernes?slide=1
-
-**FontFaceNinja = extension de navigateur web qui vous permet d’inspecter, d’essayer, de mettre en favori et si besoin d’acheter n’importe quelle police de caractères**  
-https://fontface.ninja/
 
 
 
@@ -30,6 +26,12 @@ https://lab.anybodesign.com/wc13/ & https://anybodesign.com/un-design-accessible
 **A Few Tips on Building Slides**  
 https://www.rodriguezcommaj.com/blog/a-few-tips-on-building-slides
 
+
+# STRATEGIE MOBILE
+
+**Stratégie mobile et capacités des navigateurs modernes – slides de conférence Yajug**  
+https://blog.stephaniewalter.fr/strategie-mobile-et-capacites-des-navigateurs-modernes-slides-de-conference-yajug/
+https://speakerdeck.com/stephaniewalter/strategie-mobile-et-capacites-des-navigateurs-modernes?slide=1
 
 
 # DESIGN 
@@ -118,7 +120,8 @@ http://thefeministletters.com/
 
 https://www.designcuts.com/product/complete-quality-font-collection/?ref=262
 
-
+**FontFaceNinja = extension de navigateur web qui vous permet d’inspecter, d’essayer, de mettre en favori et si besoin d’acheter n’importe quelle police de caractères**  
+https://fontface.ninja/
 
 # VIDEO - Reportage - Etranges Escales  
 https://www.youtube.com/watch?v=xRfLxZQqHjM
