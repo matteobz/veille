@@ -7,7 +7,8 @@ https://www.smashingmagazine.com/2018/05/future-of-web-design/
 # WEBSITE
 
 https://thinkandshift.co.nz/  
-http://studioconvergences.com/
+http://studioconvergences.com/  
+https://toppaddockcafe.com/  
 
 
 # TYPO
