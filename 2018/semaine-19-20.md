@@ -1,3 +1,9 @@
+# DESIGN 
+
+**Font Sizes in UI Design: The Complete Guide**  
+https://learnui.design/blog/ultimate-guide-font-sizes-ui-design.html
+
+
 # CSS
 
 **CSS a bien changé ces dernières années, la preuve avec des fonctionnalités vraiment intéressantes**  
