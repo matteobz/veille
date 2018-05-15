@@ -23,6 +23,11 @@ https://github.com/mattdesl/load-asset
 **CSS a bien changé ces dernières années, la preuve avec des fonctionnalités vraiment intéressantes**  
 https://www.smashingmagazine.com/2018/05/future-of-web-design/
 
+**The Relative Units of CSS**  
+https://pineco.de/the-relative-units-of-css/?ref=ewebdesign.com
+
+
+
 
 # WEBSITE
 
