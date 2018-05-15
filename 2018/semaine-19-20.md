@@ -3,6 +3,8 @@
 **Font Sizes in UI Design: The Complete Guide**  
 https://learnui.design/blog/ultimate-guide-font-sizes-ui-design.html
 
+**What’s new in Material Design?**  
+https://uxplanet.org/whats-new-in-material-design-5308f62a4082
 
 
 # JS
