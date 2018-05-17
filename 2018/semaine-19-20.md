@@ -1,3 +1,9 @@
+# TOP
+
+**What is GDPR, and why should designers care?**  
+https://www.fastcodesign.com/90171699/what-is-gdpr-and-why-should-designers-care
+
+
 # DESIGN 
 
 **Font Sizes in UI Design: The Complete Guide**  
@@ -43,3 +49,9 @@ https://toppaddockcafe.com/
 
 **Easily get fonts that you'll never see anywhere else**  
 https://unique.prototypo.io/
+
+
+# BONUS
+
+https://twitter.com/OlivierNourry/status/997082846530420737
+
