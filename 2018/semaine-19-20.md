@@ -9,6 +9,10 @@ https://twitter.com/borisschapira/status/997127307398729729
 **Enjoy the new version of @materialdesign! New spec, new tools. More freedom, more creativity!**  
 https://material.io/design/
 
+**What’s wrong with css-in-js?**  
+http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/
+
+
 
 
 # ACCESS
@@ -22,6 +26,12 @@ http://mixit.access42.net/#D1
 **ChromeLens : une extension Chrome bien pratique pour visualiser l'ordre de tabulation**  
 https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd
 
+**Know your ARIA: 'Hidden' vs 'None'**  
+http://www.scottohara.me/blog/2018/05/05/hidden-vs-none.html
+
+**What’s New in hideShowPassword 2**  
+https://cloudfour.com/thinks/hideshowpassword-2/
+
 
 
 # TYPO
@@ -31,6 +41,9 @@ https://unique.prototypo.io/
 
 **Après Netflix, c'est à AirBnb de sortir sa police d'écriture. Elle s'appelle Cereal... à découvrir ici**  
 https://airbnb.design/introducing-airbnb-cereal/
+
+
+
 
 
 
@@ -50,6 +63,24 @@ https://www.shopify.co.uk/partners/blog/inclusive-design
 
 **Skeuomorphism + Minimalism = Skeumin**  
 https://dribbble.com/ottonova
+
+**The Surprising Science Behind Colour Codes**  
+https://medium.com/pilcro/the-surprising-science-behind-colour-codes-6664c6f3b8a3
+
+**Ode au designer médiocre : assurer un niveau de travail décent plutôt qu’exceptionnel afin de remplir sa vie d’autre chose (que le travail).**  
+https://uxdesign.cc/how-to-be-a-mediocre-ui-ux-designer-case-study-8bd80ec5755f
+
+**Simple things designers can do to make their front-end developer coworkers happy**  
+https://blog.logrocket.com/simple-things-designers-can-do-to-make-their-front-end-developers-happy-6c113ffda5d5  
+1) Provide all the possible states  
+2) Think about user flow  
+3) Create a style guide  
+4) Design for the mobile user  
+5) Remember that content changes  
+6) Stick to a grid  
+7) Ask me anything, anytime 
+8) Don’t feel pressured to be perfect before sharing stuff with me
+9) Don’t feel 100% responsible for what we’re trying to create as a team
 
 
 
@@ -81,7 +112,8 @@ https://warrior.js.org/
 **eqio - A simple, tiny alternative to element/container queries**  
 https://github.com/stowball/eqio
 
-
+**Huge collection of very tiny JavaScript libraries that do specific things.**  
+http://microjs.com/#
 
 
 # CSS
@@ -101,6 +133,10 @@ https://www.layoutit.com/grid
 **10 Lightweight CSS Frameworks You Should Know About**  
 https://tutorialzine.com/2018/05/10-lightweight-css-frameworks-you-should-know-about
 
+**Smart CSS Grid Framework: Build with Grid Layout and really lightweight**  
+https://vladocar.github.io/SMART-CSS-GRID/
+
+
 
 
 # WEBSITE
@@ -113,7 +149,8 @@ http://the-responsive.com/
 https://kentatoshikura.com/  
 https://outrider.org/  
 https://www.cssdsgn.com/  
-https://art4globalgoals.com/en
+https://art4globalgoals.com/en  
+https://www.icantcontrolmyego.net/
 
 
 # VUE JS
@@ -134,6 +171,7 @@ https://blog.logrocket.com/math-and-front-end-context-is-so-much-more-important-
 
 
 
+
 # WORDPRESS
 
 **Si vous utilisez WordPress pour votre blog, vous voudrez lire ce billet fort détaillé qui explique comment vous mettre en conformité avec le RGPD :**  
@@ -141,9 +179,23 @@ https://wpmarmite.com/rgpd-wordpress/
 
 
 
+
+# MOT DE PASSE
+
+NON!!!  
+1. les mots de passe compliqués sont CONTRE-PRODUCTIFShttps://t.co/CgCmDL3l0E  
+2. oubliez les "mots de passe", pensez "PHRASES de passe"  
+3. ARRÊTEZ de forcer les gens à en changer régulièrementhttps://t.co/DvFMtMwjlq  
+4. mettez en place la DOUBLE authentification#FacePalm  
+En réponse à ceci : https://twitter.com/Place_Beauvau/status/992310603636133888
+
+
 # LOI MACRON
 
 L'un des effets les plus immédiats des lois Travail I et II, c'est la chute spectaculaire des plaintes aux Prud'hommes. Les bâtons dans les roues de la justice prud'homale sont devenus si encombrants qu'ils dissuadent les salariés de faire valoir leurs droits. [THREAD] https://twitter.com/OlivierCyran/status/994920338868842496?ref_src=twsrc%5Etfw
+
+
+
 
 
 # CITATION 
@@ -153,6 +205,10 @@ L'un des effets les plus immédiats des lois Travail I et II, c'est la chute spe
 
 **Jamais d'accent sur le e de ego! Ce serait un pléonasme puisqu'un ego ne cesse de mettre l'accent sur lui.**  
 bernard pivot
+
+**"La technologie ne fait plus du tout appelle à ce qu'il y a d'humain dans l'intelligence" Blanche Gardin.**  
+https://twitter.com/spetsnagirl/status/991944373515489280
+
 
 
 
@@ -178,4 +234,7 @@ http://golem13.fr/reproduire-hologrammes-doctor-strange-avec-ventilateurs-3d
 
 **Google fixing critical bugs #io18**  
 https://twitter.com/ykro/status/993899819549655040/photo/1
+
+**Make logo bigger**
+https://twitter.com/FreelanceWars/status/990968804908978176/photo/1
 
