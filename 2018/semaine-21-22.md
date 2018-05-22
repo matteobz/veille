@@ -1,6 +1,7 @@
 # WEBSITES
 
 https://www.aristidebenoist.com/   
+https://dailycssdesign.com/
 
 
 # ARTICLES
