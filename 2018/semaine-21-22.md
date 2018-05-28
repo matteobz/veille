@@ -24,6 +24,12 @@ https://korben.info/mydatarequest-pour-recuperer-vos-donnees-personnelles-sans-p
 
 
 
+# DESIGN
+
+**Tab Bars are the new Hamburger Menus**  
+https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
+
+
 
 # ACCESS
 
