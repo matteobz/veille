@@ -29,6 +29,10 @@ https://korben.info/mydatarequest-pour-recuperer-vos-donnees-personnelles-sans-p
 **Tab Bars are the new Hamburger Menus**  
 https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 
+**Designing for dyslexia: a style guide to make reading easy for everyone**
+(Article) https://www.designweek.co.uk/issues/21-27-may-2018/designing-dyslexia-style-guide-make-reading-easy-everyone/   
+(PDF) http://www.bdadyslexia.org.uk/common/ckeditor/filemanager/userfiles/Dyslexia_Style_Guide_2018-final.pdf
+
 
 
 # ACCESS
