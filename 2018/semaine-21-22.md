@@ -3,7 +3,8 @@
 **Concilier design et accessibilité ? Contrairement aux idées reçues, c'est tout à fait possible.**  
 https://access42.net/concilier-design-accessibilite
 
-
+**display: grid;**  
+https://www.grafikart.fr/tutoriels/html-css/grid-css-1002
 
 
 # GDPR
