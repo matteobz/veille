@@ -16,11 +16,18 @@ For designers https://www.smashingmagazine.com/2017/07/privacy-by-design-framewo
 
 
 
+# CSS
+
+**Keyframes App, an insanely simple way to create CSS animations.** 
+https://keyframes.app/editor/
+
+
 
 # OUTILS
 
 **MyDataRequest – Pour récupérer vos données personnelles sans prise de tête**  
 https://korben.info/mydatarequest-pour-recuperer-vos-donnees-personnelles-sans-prise-de-tete.html
+
 
 
 
@@ -32,6 +39,16 @@ https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 **Designing for dyslexia: a style guide to make reading easy for everyone**
 (Article) https://www.designweek.co.uk/issues/21-27-may-2018/designing-dyslexia-style-guide-make-reading-easy-everyone/   
 (PDF) http://www.bdadyslexia.org.uk/common/ckeditor/filemanager/userfiles/Dyslexia_Style_Guide_2018-final.pdf
+
+**How to FIND FONTS used in a web page (vidéo)**  
+https://www.youtube.com/watch?v=3bHxY5Unpiw
+
+
+
+# DESIGN THINKING
+
+**The Basics of Design Thinking**  
+https://webdesign.tutsplus.com/articles/the-basics-of-design-thinking--cms-30426?ref=ewebdesign.com
 
 
 
@@ -53,7 +70,8 @@ https://dailycssdesign.com/
 https://coolbackgrounds.io/  
 sony-xperia.com.tw/xz2   
 http://studioregale.com/  
-https://www.carcymagazine.fr/
+https://www.carcymagazine.fr/  
+https://osheyi.co.uk/
 
 
 
