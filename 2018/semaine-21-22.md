@@ -48,7 +48,8 @@ https://www.aristidebenoist.com/
 https://dailycssdesign.com/  
 https://coolbackgrounds.io/  
 sony-xperia.com.tw/xz2   
-http://studioregale.com/work
+http://studioregale.com/  
+https://www.carcymagazine.fr/
 
 
 
