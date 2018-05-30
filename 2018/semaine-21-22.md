@@ -52,6 +52,9 @@ https://www.youtube.com/watch?v=3bHxY5Unpiw
 **Les 10 tendances graphiques de 2018**  
 https://lareclame.fr/tendances-graphiques-2018-190692
 
+**Today • New Campaign for Shakespeare In The park 2018 by pentagram**  
+http://bpando.org/2018/05/30/shakespeare-in-the-park-2018/
+
 
 # DESIGN THINKING
 
