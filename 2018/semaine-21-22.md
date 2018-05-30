@@ -31,6 +31,11 @@ https://korben.info/mydatarequest-pour-recuperer-vos-donnees-personnelles-sans-p
 
 
 
+# UX
+
+**THE IMPORTANCE OF GOOD ANIMATION IN UX**  
+https://www.invisionapp.com/blog/importance-good-animation-ux/
+
 
 # DESIGN
 
