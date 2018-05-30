@@ -49,6 +49,8 @@ https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 **How to FIND FONTS used in a web page (vidéo)**  
 https://www.youtube.com/watch?v=3bHxY5Unpiw
 
+**Les 10 tendances graphiques de 2018**  
+https://lareclame.fr/tendances-graphiques-2018-190692
 
 
 # DESIGN THINKING
