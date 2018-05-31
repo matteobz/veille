@@ -103,7 +103,7 @@ https://equalentry.com/accessible-maps-on-the-web/
 https://www.aristidebenoist.com/   
 https://dailycssdesign.com/  
 https://coolbackgrounds.io/  
-sony-xperia.com.tw/xz2   
+https://www.sony-xperia.com.tw/xz2/#/   
 http://studioregale.com/  
 https://www.carcymagazine.fr/  
 https://osheyi.co.uk/  
