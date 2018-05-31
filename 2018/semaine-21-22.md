@@ -6,14 +6,22 @@ https://access42.net/concilier-design-accessibilite
 **display: grid;**  
 https://www.grafikart.fr/tutoriels/html-css/grid-css-1002
 
+**Numérique : le grand gâchis énergétique**  
+https://lejournal.cnrs.fr/articles/numerique-le-grand-gachis-energetique
+
+
+
 
 # GDPR
 
-Just in case you are trying to make sense of GDPR, here are some great resources to help you out:
+**Just in case you are trying to make sense of GDPR, here are some great resources to help you out**  
 Good Guide https://techblog.bozho.net/gdpr-practical-guide-developers/  
 Checklist https://gdprchecklist.io/  
 For developers https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/  
 For designers https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/  
+
+**Quand le RGPD arrive dans une TPE. RGPD, je te prends, je te retourne...**  
+https://blog.microlinux.fr/rgpd/?mc_cid=5b1e7ea9a6&mc_eid=33f90fb9a7
 
 
 
@@ -38,12 +46,17 @@ https://keyframes.app/editor/
 **MyDataRequest – Pour récupérer vos données personnelles sans prise de tête**  
 https://korben.info/mydatarequest-pour-recuperer-vos-donnees-personnelles-sans-prise-de-tete.html
 
+**Grid System Library**  
+http://grid.kkuistore.com/
+
 
 
 # UX
 
 **THE IMPORTANCE OF GOOD ANIMATION IN UX**  
 https://www.invisionapp.com/blog/importance-good-animation-ux/
+
+
 
 
 # DESIGN
@@ -63,6 +76,8 @@ https://lareclame.fr/tendances-graphiques-2018-190692
 
 **Today • New Campaign for Shakespeare In The park 2018 by pentagram**  
 http://bpando.org/2018/05/30/shakespeare-in-the-park-2018/
+
+
 
 
 # DESIGN THINKING
@@ -91,7 +106,8 @@ https://coolbackgrounds.io/
 sony-xperia.com.tw/xz2   
 http://studioregale.com/  
 https://www.carcymagazine.fr/  
-https://osheyi.co.uk/
+https://osheyi.co.uk/  
+http://ploom.tv/
 
 
 
