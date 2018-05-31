@@ -17,6 +17,15 @@ For designers https://www.smashingmagazine.com/2017/07/privacy-by-design-framewo
 
 
 
+
+# GDPR OPQUAST LIST
+
+**Liste de bonnes pratiques Opquast en relation avec le RGPD**  
+https://www.opquast.com/bonnes-pratiques-opquast-rgpd/?mc_cid=5b1e7ea9a6&mc_eid=33f90fb9a7
+
+
+
+
 # CSS
 
 **Keyframes App, an insanely simple way to create CSS animations.** 
