@@ -19,6 +19,10 @@ https://codepen.io/Mamboleoo/full/BxMQYQ/
 https://uxtricks.design/blogs/ux-design/responsive-web-design/?ref=ewebdesign.com
 
 
+# WEBSITE
+
+https://www.ogilvy.com/  
+
 
 # DESIGN
 
