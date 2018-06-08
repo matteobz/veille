@@ -30,3 +30,9 @@ http://bahaasamir.me/jafenart/
 
 https://www.behance.net/marcusbrown
 http://www.ux-republic.com/ladn-ux-republic-brand-manifesto/
+
+
+# AGILE
+
+**Managers : trouvez votre place dans un monde agile**  
+https://blog.octo.com/managers-trouvez-votre-place-dans-un-monde-agile/
