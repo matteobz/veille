@@ -24,6 +24,8 @@ https://uxtricks.design/blogs/ux-design/responsive-web-design/?ref=ewebdesign.co
 https://www.ogilvy.com/  
 https://index.studio/  
 http://bahaasamir.me/jafenart/  
+https://www.apple.com/ios/ios-12-preview/  
+https://developer.apple.com/design/awards/
 
 
 # DESIGN
