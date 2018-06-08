@@ -32,7 +32,7 @@ https://developer.apple.com/design/awards/
 
 https://www.behance.net/marcusbrown
 http://www.ux-republic.com/ladn-ux-republic-brand-manifesto/
-
+https://medium.muz.li/weekly-inspiration-for-designers-158-e4f4f45b6e0c  
 
 # AGILE
 
