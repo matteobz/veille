@@ -4,6 +4,13 @@
 https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/
 
 
+# FOOT - The guardian
+
+**World Cup 2018: complete guide to all 736 players**  
+https://www.theguardian.com/football/ng-interactive/2018/jun/05/world-cup-2018-complete-guide-players-ratings-goals-caps
+
+
+
 # VIDEOS
 
 **A community-curated list of tech talk videos. Made by Sara Viera**  
