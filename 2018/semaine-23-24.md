@@ -60,3 +60,10 @@ https://uxtricks.design/blogs/ux-design/wireframe-tools-and-rapid-prototyping/
 
 **Managers : trouvez votre place dans un monde agile**  
 https://blog.octo.com/managers-trouvez-votre-place-dans-un-monde-agile/
+
+
+
+# BONUS
+
+https://twitter.com/L_Demontiers/status/1005916966475980800
+
