@@ -37,7 +37,8 @@ https://index.studio/
 http://bahaasamir.me/jafenart/  
 https://www.apple.com/ios/ios-12-preview/  
 https://developer.apple.com/design/awards/  
-https://www.thealienist.com/
+https://www.thealienist.com/  
+http://maxidraw.club/
 
 
 # DESIGN
