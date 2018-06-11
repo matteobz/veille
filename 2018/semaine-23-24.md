@@ -3,6 +3,9 @@
 **Et tout le monde s'en fout #25 - L'échec**
 https://youtu.be/c0IsvrSpcx4
 
+**Une entreprise n’est pas une famille - Manuel Diaz**
+https://youtu.be/LFpoobWyzA4
+
 **Combining the Powers of SEM and BIO for Improving CSS**  
 https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/
 
