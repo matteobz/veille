@@ -24,6 +24,7 @@ https://www.theguardian.com/football/ng-interactive/2018/jun/05/world-cup-2018-c
 https://awesometalks.party/
 
 
+
 # CSS
 
 **A fantastic Bokeh effect made with pure CSS**  
@@ -31,6 +32,7 @@ https://codepen.io/Mamboleoo/full/BxMQYQ/
 
 **Responsive Web Design Tips and Best Practices**  
 https://uxtricks.design/blogs/ux-design/responsive-web-design/?ref=ewebdesign.com
+
 
 
 # WEBSITE
@@ -42,6 +44,7 @@ https://www.apple.com/ios/ios-12-preview/
 https://developer.apple.com/design/awards/  
 https://www.thealienist.com/  
 http://maxidraw.club/
+
 
 
 # DESIGN
@@ -59,10 +62,23 @@ https://uxtricks.design/blogs/ux-design/wireframe-tools-and-rapid-prototyping/
 
 
 
+
 # AGILE
 
 **Managers : trouvez votre place dans un monde agile**  
 https://blog.octo.com/managers-trouvez-votre-place-dans-un-monde-agile/
+
+
+
+
+# JS / CSS
+
+**Make your credit card form better in one line of code.**  
+https://jessepollak.github.io/card/
+
+**Em vs Rem**  
+https://codepen.io/seyedi/pen/oxWOVX
+
 
 
 
