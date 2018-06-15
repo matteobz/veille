@@ -25,7 +25,23 @@ https://awesometalks.party/
 
 
 
+# ACCESS
+
+**How to test accessibility of emails**  
+https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4
+
+
+
 # CSS
+
+**Having a Good Relationship with CSS by @sarah_chima**  
+https://dev.to/sarah_chima/having-a-good-relationship-with-css-f1e  
+• Learn CSS
+• Ditch the libraries
+• Learn to debug your code
+• Read other people's code
+• Name your classes properly
+• Practice  
 
 **A fantastic Bokeh effect made with pure CSS**  
 https://codepen.io/Mamboleoo/full/BxMQYQ/
@@ -54,11 +70,40 @@ http://www.ux-republic.com/ladn-ux-republic-brand-manifesto/
 https://medium.muz.li/weekly-inspiration-for-designers-158-e4f4f45b6e0c  
 
 
+**8-Point Grid: Typography On The Web**  
+https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc
+
+
+
+# DESIGN PATTERN
+
+**Awesome Design Patterns: Une liste de #ressources sur l'architecture et les #designpatterns**  
+https://github.com/DovAmir/awesome-design-patterns
+
+
+
+# FONT
+
+**Generate font combinations with deep learning**  
+http://fontjoy.com/
+
+
 
 # UX
 
 **A Beginner’s Guide to Rapid Prototyping**  
 https://uxtricks.design/blogs/ux-design/wireframe-tools-and-rapid-prototyping/
+
+**Cards, a great article by @heydonworks on building and coding a progressively enhanced, usable card with special attention to accessibly and inclusive design**  
+https://inclusive-components.design/cards/
+
+
+
+
+# ILLUSTRATION
+
+**Cette petite agence allemande est spécialisée dans les illustrations pour les projets numériques.**  
+https://www.kajdax.de/
 
 
 
