@@ -73,6 +73,13 @@ https://medium.muz.li/weekly-inspiration-for-designers-158-e4f4f45b6e0c
 **8-Point Grid: Typography On The Web**  
 https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc
 
+**The Layouts of Tomorrow**  
+https://mxb.at/blog/layouts-of-tomorrow/  
+
+
+**Distinct Design Systems**  
+http://danmall.me/articles/distinct-design-systems/  
+
 
 
 # DESIGN PATTERN
@@ -124,6 +131,8 @@ https://jessepollak.github.io/card/
 **Em vs Rem**  
 https://codepen.io/seyedi/pen/oxWOVX
 
+**GsapTools, by Ueno. A simple tool to debug GSAP animations**  
+https://ueno-llc.github.io/gsap-tools/
 
 
 
