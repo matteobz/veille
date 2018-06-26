@@ -6,6 +6,9 @@ https://www.pierremorsa.com/post/2018-06-18-il-y-a-un-temps-pour-parler-et-un-te
 **Salarié·e·s Syntec, un focus sur vos horaires et vos salaires**  
 https://www.youtube.com/watch?v=60HN3BHeNtc&feature=youtu.be&t=15m16s
 
+**Pratique pour le "legal design" : ce pack d'icônes sur la communication du droit**  
+http://sketchlex.com/06/12/2017/icones/pack-icones-communication-droit/
+
 
 # GRPD
 
