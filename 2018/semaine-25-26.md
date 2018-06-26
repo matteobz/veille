@@ -9,6 +9,11 @@ https://www.youtube.com/watch?v=60HN3BHeNtc&feature=youtu.be&t=15m16s
 **Pratique pour le "legal design" : ce pack d'icônes sur la communication du droit**  
 http://sketchlex.com/06/12/2017/icones/pack-icones-communication-droit/
 
+**DevTube – Des vidéos pour les dev qui en veulent**  
+https://korben.info/devtube-des-videos-pour-les-dev-qui-en-veulent.html  
+https://dev.tube/
+
+
 
 # GRPD
 
