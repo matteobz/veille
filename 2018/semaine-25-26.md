@@ -74,7 +74,10 @@ https://voyage-electrique.rte-france.com/performance-responsabilite/prouesse-en-
 
 # DESIGN
 
-**The Layouts of Tomorrow**
+**Search for mobile apps**  
+https://medium.muz.li/designing-search-for-mobile-apps-ab2593e9e413
+
+**The Layouts of Tomorrow**  
 https://mxb.at/blog/layouts-of-tomorrow/
 
 **Integrating Privacy by Design Into Your UI Design Strategy**  
