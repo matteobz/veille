@@ -120,24 +120,23 @@ https://korben.info/une-extension-pour-nettoyer-les-url-que-vous-partagez-de-tou
 
 
 
-# BONUS
-https://twitter.com/MangaWorkout/status/1010437337946427392/photo/1
+# INEGALITE & VIOLENCE
 
-# BONUS 0
-Le paratonnerre de la Tour Eiffel en action https://twitter.com/DorianDziadula/status/1001199837172457474/video/1
-
-# BONUS 1
-ARTE - « S’il y avait des preuves du viol, pourquoi n’avez-vous pas porté plainte ? »
-https://twitter.com/bubunewtgaby/status/1001623073706135553/video/1
-
-# BONUS 1.1
 L'humour à des fins pédagogiques !  
 https://twitter.com/dedere22/status/1000781016770936832/photo/1
 
-# BONUS 2
+ARTE - « S’il y avait des preuves du viol, pourquoi n’avez-vous pas porté plainte ? »
+https://twitter.com/bubunewtgaby/status/1001623073706135553/video/1
+
 "Il faut faire en sorte de permettre aux garçons de pleurer". Éduquer les jeunes garçons différemment, c’est la clé pour réduire les inégalités entre les femmes et les hommes selon ce médecin.  
 https://twitter.com/brutofficiel/status/1001871370635169792/video/1
 
-# BONUS 3
-Conseils en cas de garde à vue (source anti-rep et syndicat de la magistrature  
+
+# BONUS
+https://twitter.com/MangaWorkout/status/1010437337946427392/photo/1  
+
+Le paratonnerre de la Tour Eiffel en action  
+https://twitter.com/DorianDziadula/status/1001199837172457474/video/1
+
+Conseils en cas de garde à vue (source anti-rep et syndicat de la magistrature   
 https://twitter.com/LarrereMathilde/status/1000292435988287488/photo/1
