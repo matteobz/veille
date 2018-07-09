@@ -1,3 +1,10 @@
+# CSS-in-JS
+
+**Bruce Lawson - CSS-in-JS: FTW - WTF? - CSS Day 2018**  
+https://vimeo.com/278439003
+
+
+
 # CSS
 
 **The guide to integrating and styling icon systems — inline SVG and icon components**  
@@ -10,6 +17,8 @@ https://www.smashingmagazine.com/2018/06/bem-for-beginners/
 https://keithjgrant.com/posts/2018/06/resilient-declarative-contextual/
 
 
+
+
 # DESIGN
 
 **Quel(s) futur(s) pour le design(er) ?**  
@@ -17,6 +26,8 @@ https://graphism.fr/quels-futurs-pour-le-designer/
 
 **The Most Hated UI & UX Pattern of 2018**  
 https://icons8.com/articles/most-hated-ui-ux-design-pattern/
+
+
 
 
 # FONTS
@@ -31,10 +42,14 @@ http://www.maman-corp.com/
 https://vanholtz.co/  
 
 
+
+
 # DOCS
 
 **It has never been so easy to document your things!**  
 https://www.docz.site/
+
+
 
 
 # JS
@@ -44,9 +59,13 @@ https://blotter.js.org/#
 https://abouolia.github.io/sticky-sidebar/
 
 
+
+
 # TOOLS CLEAN CODE  
 
 https://designmodo.com/tools-clean-code/  
+
+
 
 
 # CHARTS  
