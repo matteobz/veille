@@ -27,7 +27,8 @@ https://v-fonts.com/
 
 # WEBSITE 
 
-http://www.maman-corp.com/ 
+http://www.maman-corp.com/  
+https://vanholtz.co/  
 
 
 # DOCS
