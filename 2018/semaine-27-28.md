@@ -3,6 +3,9 @@
 **Bruce Lawson - CSS-in-JS: FTW - WTF? - CSS Day 2018**  
 https://vimeo.com/278439003
 
+**Les chiffres du poids économique du design au Royaume-Uni et en France**  
+https://medium.com/designers-interactifs/les-chiffres-cl%C3%A9s-de-la-contribution-du-design-%C3%A0-l%C3%A9conomie-e2f5351e61a0
+
 
 
 # CSS
@@ -40,7 +43,7 @@ https://v-fonts.com/
 
 http://www.maman-corp.com/  
 https://vanholtz.co/  
-
+https://overflow.io/s/F7AGBM/ (Fifa World Cup 2018 - Made with Overflow)  
 
 
 
