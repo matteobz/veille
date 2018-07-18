@@ -121,7 +121,6 @@ L'article - https://switch.paris/blog/composants-dinterface-riche-et-accessibili
 
 # BONUS
 
-# les Yakuzas
 **C'est la plus grande organisation criminelle au monde... Et son existence est légale**  
 https://twitter.com/brutofficiel/status/1017725957459906560/video/1
 
