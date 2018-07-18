@@ -14,6 +14,9 @@ https://twitter.com/lesjoiesducode/status/1014833863766441986/photo/1
 # L’ASSISTANT PERSONNEL, UN MEILLEUR AMI QUI VOUS VEUT DU BIEN ?
 https://www.youtube.com/watch?v=QQ72c9Yx0-Q&index=92&list=PLAgO0SKz6lC__wP2IwhbJpg0s4kPPWopv
 
+**Enceintes connectées et vie privée : des assistants un peu trop à l’écoute**  
+https://www.laquadrature.net/fr/enceintes-connectees-et-vie-privee-des-assistants-un-peu-trop-a-l-ecoute
+
 
 
 # Comment développer une culture créative dans votre entreprise ?
@@ -42,6 +45,8 @@ http://www.ux-republic.com/video-1-ux-accessibilite-episode-2/
 
 https://www.iconwerk.com/  
 https://play.typedetail.com/  
+https://www.keus-store.com/  
+https://koox.co.uk/
 
 
 
@@ -87,6 +92,11 @@ https://www.smashingmagazine.com/2018/07/redux-designers-guide/
 
 
 
+# Design
+
+**Designing for accessibility is not that hard**  
+https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
+
 
 
 # Accessibility
@@ -125,4 +135,8 @@ https://twitter.com/darylginn/status/1016202311050375168/photo/1
 
 **Worst GIF ever...**  
 https://twitter.com/ag_texas/status/1015316670355857409
+
+
+**The Hamburger Menu**  
+https://twitter.com/pablostanley/status/1014249704471724032/photo/1
 
