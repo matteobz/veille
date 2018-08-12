@@ -3,6 +3,10 @@
 **Enquête sur le niveau de maturité du design numérique dans les entreprises françaises**  
 https://medium.com/designers-interactifs/enqu%C3%AAte-sur-le-niveau-de-maturit%C3%A9-du-design-num%C3%A9rique-dans-les-entreprises-fran%C3%A7aises-65b0efc48327
 
+**Le refactoring le plus difficile de ma carrière, une conférence sur le burn out**  
+https://docs.google.com/presentation/d/1w92YgKoF2LrWI8f4pB914WzQA2-zpW6evIuOiqmei6c/edit#slide=id.p  
+http://www.masef.com/scores/burnoutsyndromeechellembi.htm (à faire, vraiment !)
+
 
 
 # UX
