@@ -20,4 +20,13 @@ https://ethanmarcotte.com/wrote/fractional/
 
 https://www.epicurrence.com/  
 http://www.dotlung.com/  
-https://www.streamlineicons.com/
+https://www.streamlineicons.com/  
+
+
+# ANDROID 9 PIE 
+
+**Nouvelle version d’Android qui met plus l’accent sur la prédiction des besoins utilisateur et le “moins de distractions”**  
+https://www.android.com/versions/pie-9-0/
+
+source [https://blog.stephaniewalter.fr/la-semaine-en-pixels-12-aout-2018/]
+
