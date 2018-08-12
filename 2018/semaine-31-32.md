@@ -28,5 +28,5 @@ https://www.streamlineicons.com/
 **Nouvelle version d’Android qui met plus l’accent sur la prédiction des besoins utilisateur et le “moins de distractions”**  
 https://www.android.com/versions/pie-9-0/
 
-source [https://blog.stephaniewalter.fr/la-semaine-en-pixels-12-aout-2018/]
+[source](https://blog.stephaniewalter.fr/la-semaine-en-pixels-12-aout-2018/)
 
