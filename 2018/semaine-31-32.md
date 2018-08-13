@@ -14,12 +14,21 @@ http://www.masef.com/scores/burnoutsyndromeechellembi.htm (à faire, vraiment !)
 **Digital Psychology**  
 https://digitalpsychology.io/
 
+**Dark Pattern Design - It's Downright Unethical & Irresponsible**  
+https://uxplanet.org/dark-pattern-design-its-downright-unethical-irresponsible-c2a3612a1640
+
+**Amazon dark patterns**  
+http://www.netinstructions.com/amazon-dark-patterns/
+
 
 
 # DESIGN
 
 **Storytelling in the Design Process**  
 https://blog.overflow.io/storytelling-in-the-design-process-994a171b7928
+
+**Racism in Design. Who to Blame?**  
+https://icons8.com/articles/racism-in-design/
 
 
 
@@ -30,6 +39,9 @@ https://ethanmarcotte.com/wrote/fractional/
 
 **Flexbox expliqué en animations**  
 https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+**Creating the “Perfect” CSS System**  
+https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e
 
 
 
@@ -45,6 +57,7 @@ https://www.keycdn.com/blog/icon-fonts-vs-svgs/
 https://www.epicurrence.com/  
 http://www.dotlung.com/  
 https://www.streamlineicons.com/  
+https://www.ippawards.com/2018-photographers-of-the-year/
 
 
 
