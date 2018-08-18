@@ -30,6 +30,8 @@ https://blog.overflow.io/storytelling-in-the-design-process-994a171b7928
 **Racism in Design. Who to Blame?**  
 https://icons8.com/articles/racism-in-design/
 
+**Checkbox vs Toggle Switch**  
+https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8
 
 
 # CSS
