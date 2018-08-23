@@ -20,6 +20,8 @@ https://uxplanet.org/dark-pattern-design-its-downright-unethical-irresponsible-c
 **Amazon dark patterns**  
 http://www.netinstructions.com/amazon-dark-patterns/
 
+**Carousels on Mobile Devices**  
+https://www.nngroup.com/articles/mobile-carousels/
 
 
 # DESIGN
