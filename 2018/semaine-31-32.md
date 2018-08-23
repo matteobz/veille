@@ -33,6 +33,10 @@ https://icons8.com/articles/racism-in-design/
 **Checkbox vs Toggle Switch**  
 https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8
 
+**Chris Kelly on Designing an Award-Winning Brand for Adobe Live**  
+https://www.milanote.com/the-work/chris-kelly-on-designing-an-award-winning-brand-for-adobe
+
+
 
 # CSS
 
