@@ -51,6 +51,8 @@ https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
 **Creating the “Perfect” CSS System**  
 https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e
 
+**CSS Grid in 45 Minutes**
+https://www.youtube.com/watch?v=DCZdCKjnBCs
 
 
 # FONT ICON vs SVG 
