@@ -6,6 +6,21 @@ https://blog.atalan.fr/video-sensibilisation-accessibilite-numerique/
 **Puppeteer Recorder: Vos #interactions navigateur enregistrées dans un script #Puppeteer rejouable:**  
 https://github.com/checkly/puppeteer-recorder
 
+**Ikigai**  
+https://twitter.com/rachelpage13/status/1034903963944898560/photo/1
+
+
+
+# DESGIN
+
+**Archetype, an online tool to help you handle typography and vertical rythm, then export it in CSS or for Sketch (supports Google Fonts)**  
+https://archetypeapp.com/#
+
+
+**Le livre Hacker Citizen en version numérique**  
+http://hacker-citizen.fr/
+
+
 
 # DEV
 
@@ -15,11 +30,23 @@ https://codeburst.io/react-native-vs-ionic-explained-a-step-by-step-evaluation-2
 **This Front-End Performance Checklist is so fantastic**  
 https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md
 
+**Un guide complet sur le Lazy loading d'images pour améliorer vos performances web:**  
+https://imagekit.io/blog/lazy-loading-images-complete-guide/
+
+
+
+# APPRENDRE LE CODE
+
+**P5.js - Un éditeur de code en ligne dédié à l'apprentissage du code**  
+https://medium.com/processing-foundation/hello-p5-js-web-editor-b90b902b74cf
+
+
 
 # UX
 
 **Prise de parole UX : Retracer le parcours de conception centrée utilisateurs à travers 5 étapes en vidéo**  
 http://www.ux-republic.com/5-prises-de-parole-pour-5-etapes-de-la-conception/
+
 
 
 # VIDEO 
@@ -28,9 +55,19 @@ http://www.ux-republic.com/5-prises-de-parole-pour-5-etapes-de-la-conception/
 http://danmall.me/articles/designer-developer-workflow/
 
 
+
 # WEBSITE 
 
 https://www.studiofeixen.ch/  
+http://rallyinteractive.com/
+
+
+
+# JS
+
+**Github supprime définitivement jQuery de son front et explique pourquoi**  
+https://githubengineering.com/removing-jquery-from-github-frontend/
+
 
 
 # CSS
@@ -41,6 +78,10 @@ https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
 **Create your design system - part 1**  
 https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd
 
+**The Font Loading Checklist**  
+https://www.zachleat.com/web/font-checklist/
+
+
 
 # ACCESS
 
@@ -50,11 +91,36 @@ https://designsystem.gov.au/
 **#Accessibilité numérique : tous concernés, tous bénéficiaires. Consultez le livre blanc du #CNED réalisé avec le soutien du @FIPHFP**  
 http://www.cned.fr/le-cned/institution/accessibilite-numerique/
 
+**Comment écrire du code JavaScript accessible ? Un bon récapitulatif par Ben Robertson (2017 toujours valable)**
+https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f
+
+**John Gunderson shares a fantastic #ARIA resource @A11YChi**  
+https://aitg.disability.illinois.edu/presentations/2018-09-a11ychi/index.html
+
+
+
+# HARCELEMENT
+
+Je bosse depuis plus de 15 ans et 80% des harcèlements que j'ai subis venaient de Femmes. Alors on va arrêter 2min les conneries, le harcèlement au travail ce n'est pas qu'une question de sexe, c'est surtout une question de pouvoir. https://twitter.com/MissAugine/status/1035458387213991937?ref_src=twsrc%5Etfw
+
+
 
 # LIVRE 
 
 **S’éveiller à l’effondrement**  
 https://medium.com/@mcpaccard/s%C3%A9veiller-%C3%A0-l-effondrement-9832bfee8451
+
+
+
+# TELE TRAVAIL
+
+Le télé travail est une preuve de confiance et d'ouverture d'esprit, pas juste un confort de travail. Le refus catégorique prouve qu'un employeur ne fait pas confiance de base, créant donc un climat non propice à une bonne et saine collaboration. Ne gaspillez pas votre énergie. (à déouler)  
+https://twitter.com/mathrobin/status/1037629202546208768?ref_src=twsrc%5Etfw
+
+
+# TRAVAIL
+
+Le prix des ordinateurs portables a largement augmenté mais j’ai l’impression que les budgets des entreprises sont plutôt à la baisse. Rappel 3 000 € ce n’est pas choquant.. https://n.survol.fr/n/n-economisez-pas-sur-votre-materiel-informatique-professionnel https://n.survol.fr/n/quel-poste-de-travail
 
 
 # BONUS
