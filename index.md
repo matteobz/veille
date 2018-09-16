@@ -7,7 +7,7 @@ Je vous souhaite une excellente journée et une bonne lecture !
 Des bisous...
 
 ## VEILLE 2018 
-[Dossier 2018] (https://matteobz.github.io/veille/2018)
+[Dossier 2018] (2018)
 
 # VEILLE 2017 
-[Dossier 2017] (https://matteobz.github.io/veille/2017)
+[Dossier 2017] (2017)
