@@ -1,6 +1,6 @@
 # TOP
 
-**L’accessibilité numérique à toutes les étapes d’un projet : **  
+**L’accessibilité numérique à toutes les étapes d’un projet**  
 https://blog.atalan.fr/video-sensibilisation-accessibilite-numerique/
 
 **Puppeteer Recorder: Vos #interactions navigateur enregistrées dans un script #Puppeteer rejouable:**  
@@ -9,9 +9,19 @@ https://github.com/checkly/puppeteer-recorder
 **Ikigai**  
 https://twitter.com/rachelpage13/status/1034903963944898560/photo/1
 
+**Les architectures CSS passées au crible: BEM et Atomic CSS**  
+https://www.sitepoint.com/css-architecture-block-element-modifier-bem-atomic-css/
 
 
-# DESGIN
+
+# BINARY WORKS
+
+**If you ever wanted a visual to explain how #binary works.**  
+https://twitter.com/stephenfluin/status/1037420446898040832/video/1
+
+
+
+# DESIGN
 
 **Archetype, an online tool to help you handle typography and vertical rythm, then export it in CSS or for Sketch (supports Google Fonts)**  
 https://archetypeapp.com/#
@@ -68,6 +78,9 @@ http://rallyinteractive.com/
 **Github supprime définitivement jQuery de son front et explique pourquoi**  
 https://githubengineering.com/removing-jquery-from-github-frontend/
 
+**Highway: Une lib JS permettant de faire des #navigations #Ajax fluides avec de belles #transitions**  
+https://dogstudio.github.io/highway/
+
 
 
 # CSS
@@ -81,7 +94,11 @@ https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9
 **The Font Loading Checklist**  
 https://www.zachleat.com/web/font-checklist/
 
+**Des exemples pratiques d'usage des pseudo sélecteurs :empty et :blank**  
+https://zellwk.com/blog/empty-and-blank/
 
+**In CSS, transform-origin is almost as important and as powerful as transform. I built this animation on CodePen to help illustrate**  
+https://codepen.io/shshaw/pen/pOVKjb
 
 # ACCESS
 
@@ -118,9 +135,19 @@ Le télé travail est une preuve de confiance et d'ouverture d'esprit, pas juste
 https://twitter.com/mathrobin/status/1037629202546208768?ref_src=twsrc%5Etfw
 
 
+
 # TRAVAIL
 
 Le prix des ordinateurs portables a largement augmenté mais j’ai l’impression que les budgets des entreprises sont plutôt à la baisse. Rappel 3 000 € ce n’est pas choquant.. https://n.survol.fr/n/n-economisez-pas-sur-votre-materiel-informatique-professionnel https://n.survol.fr/n/quel-poste-de-travail
+
+
+
+# LANGUE
+
+**Puisqu'on parle beaucoup de la langue arabe ces jours-ci, c'est le moment pour apprendre deux trois bricoles sur cette belle langue. Installez-vous, et vous devriez découvrir des choses qu'on ne trouve pas sur Wikipédia (à part les 2 premiers tweet!)
+⤵⤵⤵**
+https://twitter.com/wokeinParis/status/1040275576882454529?ref_src=twsrc%5Etfw
+
 
 
 # BONUS
@@ -139,3 +166,12 @@ https://twitter.com/konglongleuil/status/1035132225145192448/photo/1
 
 **This is exactly how I leave work** 
 https://twitter.com/PopularPups/status/1025933730379165696/video/1
+
+**Frissons**  
+https://twitter.com/HugoGirard_/status/1039072262090055681/video/1
+
+**Froooooooooomage**
+https://twitter.com/emmafreud/status/1040003783080796160
+
+**100 milliards... Pour reprendre la citation de Paul Franz : "Les gens s'imaginent souvent mal combien de fois 1 milliard est plus grand que 1 million. Un million de secondes, c'est environ 11 jours. Un milliard de secondes, c'est environ 31,5 ans.**  
+https://twitter.com/Mondi_Alisation/status/1040687704965623808/photo/1
