@@ -1,5 +1,8 @@
 # TOP
 
+**Accessibility is not a feature**  
+https://ethanmarcotte.com/wrote/accessibility-is-not-a-feature/
+
 **L’accessibilité numérique à toutes les étapes d’un projet**  
 https://blog.atalan.fr/video-sensibilisation-accessibilite-numerique/
 
@@ -26,9 +29,18 @@ https://twitter.com/stephenfluin/status/1037420446898040832/video/1
 **Archetype, an online tool to help you handle typography and vertical rythm, then export it in CSS or for Sketch (supports Google Fonts)**  
 https://archetypeapp.com/#
 
-
 **Le livre Hacker Citizen en version numérique**  
 http://hacker-citizen.fr/
+
+**ColorBox! We’re open-sourcing Lyft’s color algorithm that we used to create our accessible color system.**  
+https://www.colorbox.io/
+
+
+
+# INTE 
+
+**Devenir intégrateur · intégratrice web. Je fais le points sur les formations d'intégration web et je demande des témoignages sur les formations évoquées. Merci pour toute l'aide que vous pourrez apporter**  
+https://www.lelutinduweb.fr/devenir-integrateur-web/
 
 
 
@@ -43,6 +55,8 @@ https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/READ
 **Un guide complet sur le Lazy loading d'images pour améliorer vos performances web:**  
 https://imagekit.io/blog/lazy-loading-images-complete-guide/
 
+**The ultimate guide to proper use of animation in UX**  
+https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
 
 
 # APPRENDRE LE CODE
@@ -70,7 +84,8 @@ http://danmall.me/articles/designer-developer-workflow/
 
 https://www.studiofeixen.ch/  
 http://rallyinteractive.com/  
-https://helloweare.agency/
+https://helloweare.agency/  
+https://www.goodmoods.com/
 
 
 
@@ -101,6 +116,8 @@ https://zellwk.com/blog/empty-and-blank/
 **In CSS, transform-origin is almost as important and as powerful as transform. I built this animation on CodePen to help illustrate**  
 https://codepen.io/shshaw/pen/pOVKjb
 
+
+
 # ACCESS
 
 **L'agence australienne pour la transformation digitale @DTA fournit un framework et un ensemble d'outils pour aider les designers et développeurs à construire des produits et services gouvernementaux plus #accessibles**
@@ -115,6 +132,8 @@ https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-i
 **John Gunderson shares a fantastic #ARIA resource @A11YChi**  
 https://aitg.disability.illinois.edu/presentations/2018-09-a11ychi/index.html
 
+**Les boutons désactivés, c'est pas cool (parce qu'on ne comprend pas pourquoi). Les messages d'erreur, c'est cool (parce qu'on comprend pourquoi) !**  
+https://axesslab.com/disabled-buttons-suck/
 
 
 # HARCELEMENT
@@ -152,6 +171,12 @@ https://twitter.com/wokeinParis/status/1040275576882454529?ref_src=twsrc%5Etfw
 
 
 # BONUS
+
+**Ça part sur un concours d’affiches entre le système et les devs c’est beau**  
+https://twitter.com/Si_Nikk/status/1043031890838446080/photo/1
+
+**Nous sommes en train de mettre en œuvre le crash du système Planète Terre»: l'astrophysicien @aurelienbarrau alerte sur l'urgence climatique à laquelle nos chefs d'État doivent faire face**  
+https://twitter.com/Loopsidernews/status/1043183622180798465/video/1
 
 **Ce qui se passe dans notre bouche et notre cerveau quand on embrasse**  
 https://www.slate.fr/story/165479/embrasser-bouche-hormone-cerveau-baiser-langue-salive
