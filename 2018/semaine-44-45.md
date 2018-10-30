@@ -4,6 +4,9 @@
 **Que se passe-t-il quand on crée un Flexbox flex container?**  
 https://la-cascade.io/que-se-passe-t-il-quand-on-cree-un-flexbox-flex-container/
 
+**Using dark mode in CSS with MacOS Mojave**  
+https://paulmillr.com/posts/using-dark-mode-in-css/?ref=ewebdesign.com
+
 
 # SCRUM vs AGILE
 
