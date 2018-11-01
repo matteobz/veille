@@ -8,7 +8,15 @@ https://la-cascade.io/que-se-passe-t-il-quand-on-cree-un-flexbox-flex-container/
 https://paulmillr.com/posts/using-dark-mode-in-css/?ref=ewebdesign.com
 
 
+
 # SCRUM vs AGILE
 
 **On peut faire du Scrum sans être Agile, et on peut être Agile sans faire du Scrum**  
 https://vismaviedagiliste.com/643/on-peut-faire-du-scrum-sans-etre-agile-et-on-peut-etre-agile-sans-faire-du-scrum/
+
+
+
+# RGPD
+
+**Tableau périodique**
+https://www.desmarais-avocats.fr/wp-content/uploads/2017/10/04-Poster_RGPD_watermarke%CC%81_BD.jpg
