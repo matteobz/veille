@@ -3,6 +3,16 @@
 **La perception de la performance et l'UX**  
 https://www.youtube.com/watch?v=YZn2UKSDMGM&feature=youtu.be
 
+**De dev à UX designer : reconversion d’une convertie**  
+https://uxways.wordpress.com/2018/10/29/de-dev-a-ux-designer-reconversion-dune-convertie/
+
+
+# UX
+
+**Ressources pour débuter en UX design**  
+https://uxways.wordpress.com/ressources-pour-debuter-en-ux-design/
+
+
 
 # CSS
 
