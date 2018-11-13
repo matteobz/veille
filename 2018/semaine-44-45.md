@@ -22,6 +22,9 @@ https://la-cascade.io/que-se-passe-t-il-quand-on-cree-un-flexbox-flex-container/
 **Using dark mode in CSS with MacOS Mojave**  
 https://paulmillr.com/posts/using-dark-mode-in-css/?ref=ewebdesign.com
 
+**Où placer ses CSS ? Comment diviser ses feuilles pour moins charger ? Que bloque vraiment CSS ? Ça faisait longtemps que quelqu'un n'avait pas fait de la R&D là dessus - CSS and Network Performance**  
+https://csswizardry.com/2018/11/css-and-network-performance/
+
 
 
 # SCRUM vs AGILE
