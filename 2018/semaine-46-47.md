@@ -1,7 +1,10 @@
 # CSS
 
-**Box Alignment**  ¨
+**Box Alignment**  
 https://youtu.be/Vw6Uq7g0LF0
+
+**What, exactly, is the DOM?**  
+https://bitsofco.de/what-exactly-is-the-dom/
 
 
 # A11Y
