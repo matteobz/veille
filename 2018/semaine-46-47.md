@@ -16,3 +16,6 @@ https://bitsofco.de/what-exactly-is-the-dom/
 
 **A11Y Style Guide**  
 https://a11y-style-guide.com/style-guide/
+
+**SOUS-TITRER UNE VIDÉO, C’EST NÉCESSAIRE ET C’EST PLUS SIMPLE QU’IL N’Y PARAIT !**  
+https://access42.net/sous-titres-video-accessibilite-web
