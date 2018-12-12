@@ -24,6 +24,10 @@ https://haltu.github.io/muuri/
 
 # A11Y
 
+**Accessible SVG Icons with Inline Sprites**  
+https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/
+
+
 **A11Y Style Guide**  
 https://a11y-style-guide.com/style-guide/
 
