@@ -44,5 +44,10 @@ https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_t
 
 http://airbnb.resn.co/#/ (xp mobile)
 
+https://cantunsee.space/ votre attention aux détails de design va vous permettre de gagner des points. Challengez vos collègues mais ATTENTION : une fois que vous voyez la différence entre les images, vous ne pourrez plus l’ignorer...
+
+https://www.supremo.co.uk/designers-eye/ C'est centré ou pas...
+
+
 
 
