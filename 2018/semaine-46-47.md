@@ -20,6 +20,7 @@ https://bitsofco.de/what-exactly-is-the-dom/
 # JS 
 
 https://haltu.github.io/muuri/
+https://nickpiscitelli.github.io/Glider.js/ (carousel accessible)
 
 
 # A11Y
