@@ -10,6 +10,9 @@ https://optician-sans.com/
 
 # CSS
 
+**A look at CSS Resets in 2018**  
+https://bitsofco.de/a-look-at-css-resets-in-2018/
+
 **Extending CSS with JavaScript**  
 https://twitter.com/innovati/status/1068998114491678720
 
@@ -21,6 +24,9 @@ https://bitsofco.de/what-exactly-is-the-dom/
 
 **Keep Math in the CSS**  
 https://css-tricks.com/keep-math-in-the-css/
+
+**What do you name color variables?**  
+https://css-tricks.com/what-do-you-name-color-variables/
 
 
 # JS 
@@ -43,6 +49,10 @@ https://access42.net/sous-titres-video-accessibilite-web
 
 
 # DESIGN
+
+**HOW IS AI GOING TO CHANGE THE WAY WE DESIGN?**  
+https://blog.taiste.fi/en/ai-going-change-way-design
+
 
 https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_tasmanias_west_coast_by_for_the_people.php
 
