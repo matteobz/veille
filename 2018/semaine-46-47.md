@@ -10,11 +10,17 @@ https://optician-sans.com/
 
 # CSS
 
+**Extending CSS with JavaScript**  
+https://twitter.com/innovati/status/1068998114491678720
+
 **Box Alignment**  
 https://youtu.be/Vw6Uq7g0LF0
 
 **What, exactly, is the DOM?**  
 https://bitsofco.de/what-exactly-is-the-dom/
+
+**Keep Math in the CSS**  
+https://css-tricks.com/keep-math-in-the-css/
 
 
 # JS 
