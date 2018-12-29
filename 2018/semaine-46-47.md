@@ -59,6 +59,8 @@ https://access42.net/sous-titres-video-accessibilite-web
 **HOW IS AI GOING TO CHANGE THE WAY WE DESIGN?**  
 https://blog.taiste.fi/en/ai-going-change-way-design
 
+**The Best and Worst Identities of 2018, Part 2: The Best Reviewed**  
+https://www.underconsideration.com/brandnew/archives/the_best_and_worst_identities_of_2018_part_2_the_best_reviewed.php
 
 https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_tasmanias_west_coast_by_for_the_people.php
 
