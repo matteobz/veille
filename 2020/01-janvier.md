@@ -63,7 +63,165 @@ https://twitter.com/JLMelenchon/status/1206639368888299522
 
 • • • • • • •
 
+Pourquoi la balise ne doit pas servir pour faire des accordéons
+https://daverupert.com/2019/12/why-details-is-not-an-accordion/
+— HTeuMeuLeu (@HTeuMeuLeu) December 16, 2019
+
+• • • • • • •
+
+[FR] Les bases du SEO technique pour les développeurs.
+https://www.creativejuiz.fr/blog/referencement-seo/bases-seo-technique-developpeurs
+par @myriamjessier
+— Geoffrey Crofte🐲🇱🇺 (@geoffreycrofte) December 9, 2019
+
+• • • • • • •
+
+Announcing - t-shirts & accessories for Web Developers & Designers.
+A year in the making. We hope you'll like it! 💜
+https://teejungle.net/
+— Addy Osmani (@addyosmani)
+
+• • • • • • •
+
+Ce récit d’un enseignant-chercheur, arrêté avant même la manif du 5 à cause de son masque à gaz trop sophistiqué, est passionnant et flippant. Il raconte avec acuité l’arbitraire et ses 31 h de GAV, pour rien, pour écoper d’un simple rappel à la loi. https://lundi.am/Comment-j-ai-echappe-a-la-greve-des-transports-en-passant-trente-et-une-heure
+— Faïza Zerouala (@faizaz) December 9, 2019
+
+• • • • • • •
+
+
+« L’intégration d’e-mails n’est pas coincée dans les années 1990. Mais peut-être que vous, oui. » Mon article du jour pour les 24 jours de l’email. 
+https://www.24jours.email/2019/12/08/l-integration-d-emails-n-est-pas-coincee-dans-les-annees-1990/
+— HTeuMeuLeu (@HTeuMeuLeu) December 8, 2019
+
+• • • • • • •
+
+En BD c'est souvent plus clair : https://emmaclit.com/2019/09/23/cest-quand-quon-arrete/
+— Romain Chauveau (@ChauveauRomain) December 7, 2019
+
+• • • • • • •
+
+Ça, c’est chouette : 60 recettes pour un repas de Noël végétalien par @_aline_k «On n’a pas besoin d’un animal mort sur la table pour partager un délicieux repas festif.»🙏🏻
+https://www.lodeurducafe.com/2019/12/60-recettes-repas-noel-vegane/
+— Marie🌙La Lune Mauve (@LaLuneMauve) 
+
+• • • • • • •
+
+"Vous trouvez ça drôle que les océans meurent ? Vous trouvez ça drôle ?"
+En plein parlement australien, l'énorme colère du sénateur @SenatorSurfer face à l'inaction de son gouvernement pour protéger les coraux de la Grande barrière. 
+— Brut FR (@brutofficiel) December 5, 2019
+
+• • • • • • •
+
+Quatrième jour de web : @eaboaf_ explique comment bien sous-titrer les vidéos 
+https://www.24joursdeweb.fr/2019/comment-bien-sous-titrer-les-videos/
+— 24 jours de web (@24joursdeweb) December 4, 2019
+
+• • • • • • •
+
+Accessibility should be part of your "definition of done", y'all 
+https://twitter.com/micahgodbolt/status/1202306016622174208
+— Marcy Sutton (@marcysutton) December 4, 2019
+
+• • • • • • •
+
+https://greve.cool/
+— Thomas Jarrand (@Tom32i) December 4, 2019
+
+• • • • • • •
+
+- Contraste faible
+- Alternative texte manquante
+- Liens vides
+- Champs de formulaire sans label
+- Langue de document manquante
+- Boutons vides
+
+« L'accessibilité n'est pas facile, mais les six problèmes les plus courants sont en fait plutôt simples à corriger. » — @TatianaTMac https://twitter.com/tameverts/status/1197501041098579970
+— HTeuMeuLeu (@HTeuMeuLeu) November 21, 2019
+
+• • • • • • •
+
+Bonsoir !
+La conférence de Aral Balkan @aral au Parlement Européen hier est en ligne avec ses diapos et des sous-titres en Français ! The future internet regulation - Aral Balkan at the European Parliament - With Slides
+Merci à couscous, googy, obrow, vincib, bstn et atres pour la traductions ! <3
+— Benjamin Sonntag🐙(@vincib) November 20, 2019
+https://video.lqdn.fr/videos/watch/861c07f7-7e9b-4e64-9765-cf1de592c8a0
+
+• • • • • • •
+
+⚠️ Attention : De plus en plus de créas freelances semblent être victime d'arnaques au devis. Ici un post qui détaille bien la manoeuvre et comment l'éviter >> https://www.kob-one.com/forum/viewtopic.php?f=7&p=397855#p397839
+— Julien Moya (@JulienMoya) November 19, 2019
+
+• • • • • • •
+
+Oyez, oyez, en attendant la vidéo, les Slides de ma conférence à #BlendWebMix - Exclusion numérique et société « digitalisée », les enjeux pour le design d’interface et de service - sont en ligne. #InclusionNumérique #illectronisme #Design https://speakerdeck.com/webetcaetera/exclusion-numerique-et-societe-digitalisee-les-enjeux-pour-le-design-dinterface-et-de-service
+— Véronique Lapierre (@webetcaetera) November 19, 2019
+
+• • • • • • •
+
+️New post! A frequent question from our clients: "Can't I just use @getbootstrap or @materialdesign for my design system?" https://superfriendlydesign.systems/articles/should-you-use-bootstrap-or-material-design-for-your-design-system/
+— SuperFriendly (@superfriendlyco) November 12, 2019
+
+• • • • • • •
+
+Suite au travail d'@aeris22 et de @_reflets_ autour des traqueurs de @libe, un billet pour bloquer les crasses d'Eulerian avec Unbound (ou un pare-feu) https://www.shaftinc.fr/escalade-traque-eulerian.html
+— John Shaft (@JohnShaftFr) November 11, 2019
+
+• • • • • • •
+
+4 images pour sortir des idées reçues et de la propagande de masse du camp libéral.
+https://twitter.com/MMonmirel/status/1193915785783267330
+— Manon Monmirel (@MMonmirel) November 11, 2019
+
+• • • • • • •
+
+GDPR letter template.
+https://github.com/aeris/gdpr/blob/master/email/fr.md
+https://twitter.com/aeris22/status/1193607177912672256
 
 
 • • • • • • •
 
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
