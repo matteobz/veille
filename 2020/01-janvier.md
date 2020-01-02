@@ -1,3 +1,49 @@
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
+
+
+• • • • • • •
+
 Après la story insta, c'est parti pour le thread fleuve du YOLO URSSAF 2020. Ami•e•s Artistes Auteurs, on est pas sorti le cul des ronces. Notre ministère a le même comportement que moi quand je fais de la physique sauf que ça ne met pas à mal les finances de milliers de gens.
 https://twitter.com/YeahCy/status/1211342399118675968
 — Cy. (@YeahCy) December 29, 2019
@@ -178,50 +224,3 @@ https://twitter.com/MMonmirel/status/1193915785783267330
 GDPR letter template.
 https://github.com/aeris/gdpr/blob/master/email/fr.md
 https://twitter.com/aeris22/status/1193607177912672256
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
-
-
-
-• • • • • • •
